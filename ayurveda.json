@@ -1,0 +1,12 @@
+[
+  {
+    "condition": "Cough",
+    "herbs": ["Tulsi", "Honey"],
+    "remedy": "Mix tulsi juice with honey. Take twice daily."
+  },
+  {
+    "condition": "Fever",
+    "herbs": ["Giloy", "Tulsi"],
+    "remedy": "Boil giloy stem with tulsi and drink daily."
+  }
+]
