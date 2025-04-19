@@ -8,5 +8,85 @@
     "condition": "Fever",
     "herbs": ["Giloy", "Tulsi"],
     "remedy": "Boil giloy stem with tulsi and drink daily."
+  },
+  {
+    "condition": "cold",
+    "remedy": "Drink ginger tea made by boiling fresh ginger slices in water; add honey and lemon for added relief."
+  },
+  {
+    "condition": "cough",
+    "remedy": "Prepare a decoction of tulsi leaves and honey; consume twice daily to soothe the throat."
+  },
+  {
+    "condition": "fever",
+    "remedy": "Boil giloy stem with tulsi leaves; drink the concoction daily to help reduce fever."
+  },
+  {
+    "condition": "indigestion",
+    "remedy": "Consume fennel tea after meals to aid digestion and relieve bloating."
+  },
+  {
+    "condition": "sore throat",
+    "remedy": "Gargle with warm water mixed with turmeric and salt to alleviate throat discomfort."
+  },
+  {
+    "condition": "headache",
+    "remedy": "Apply a paste of sandalwood powder and water on the forehead to relieve headache."
+  },
+  {
+    "condition": "constipation",
+    "remedy": "Drink warm water with a teaspoon of triphala powder before bedtime to promote bowel movements."
+  },
+  {
+    "condition": "stress",
+    "remedy": "Practice daily meditation and consume ashwagandha supplements to reduce stress levels."
+  },
+  {
+    "condition": "insomnia",
+    "remedy": "Drink warm milk with nutmeg powder before sleeping to improve sleep quality."
+  },
+  {
+    "condition": "skin acne",
+    "remedy": "Apply a paste of neem leaves and turmeric on affected areas to treat acne."
+  },
+  {
+    "condition": "joint pain",
+    "remedy": "Apply warm sesame oil to the joints and massage gently to alleviate pain and stiffness."
+  },
+  {
+    "condition": "anxiety",
+    "remedy": "Consume brahmi tea daily to calm the mind and reduce anxiety."
+  },
+  {
+    "condition": "allergies",
+    "remedy": "Take guduchi (Tinospora cordifolia) supplements to strengthen immunity and combat allergies."
+  },
+  {
+    "condition": "hair loss",
+    "remedy": "Apply amla oil to the scalp regularly to nourish hair follicles and prevent hair loss."
+  },
+  {
+    "condition": "diabetes",
+    "remedy": "Consume a mixture of jamun seed powder and water daily to help regulate blood sugar levels."
+  },
+  {
+    "condition": "high blood pressure",
+    "remedy": "Drink a decoction of arjuna bark daily to support heart health and manage blood pressure."
+  },
+  {
+    "condition": "cholesterol",
+    "remedy": "Include garlic in your daily diet to help lower cholesterol levels."
+  },
+  {
+    "condition": "asthma",
+    "remedy": "Inhale steam infused with eucalyptus oil to relieve asthma symptoms."
+  },
+  {
+    "condition": "bronchitis",
+    "remedy": "Drink licorice root tea twice daily to soothe bronchial inflammation."
+  },
+  {
+    "condition": "psoriasis",
+    "remedy": "Apply aloe vera gel to affected areas to reduce inflammation and scaling."
   }
 ]
