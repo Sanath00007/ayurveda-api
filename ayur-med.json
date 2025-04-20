@@ -1,0 +1,2022 @@
+[
+  {
+    "name_of_medicine": "Abhayarishta",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "200 ml",
+    "main_indications": "Arsha, Agnimandya,\nUdararoga, Vibandha",
+    "dose": "12 - 24 ml",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "A"
+  },
+  {
+    "name_of_medicine": "Amritarishta",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "200 ml",
+    "main_indications": "SarvaJvara, Jirna Jvara",
+    "dose": "12 - 24 ml",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "A"
+  },
+  {
+    "name_of_medicine": "Aragvadharishta",
+    "reference_text": "AH",
+    "dispensing_pack_size": "200ml",
+    "main_indications": "Kandu, Tvak Vikara,\nVibandha",
+    "dose": "12 - 24 ml",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "A"
+  },
+  {
+    "name_of_medicine": "Aravindasava",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "200 ml",
+    "main_indications": "Balaroga, Balakshaya,\nAgnimandya, Aruchi",
+    "dose": "12 - 24 ml",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "A"
+  },
+  {
+    "name_of_medicine": "Arjunarishta/ Parthadyarishta",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "200 ml",
+    "main_indications": "Hridroga, Hriddrava, Hrid- daurbalya, Moha,\nMurchha",
+    "dose": "12 - 24 ml",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "A"
+  },
+  {
+    "name_of_medicine": "Ashokarishta",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "200 ml",
+    "main_indications": "Asrigdara, Shveta\nPradara,  Yoniroga",
+    "dose": "12 - 24 ml",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "A"
+  },
+  {
+    "name_of_medicine": "Ashvagandharisht\na",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "200 ml",
+    "main_indications": "Murchha, Apasmara,\nShosha, Unmada, Karshya",
+    "dose": "12 - 24 ml",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "A"
+  },
+  {
+    "name_of_medicine": "Balarishta",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "200 ml",
+    "main_indications": "Daurbalya, Vataroga,\nAgnimandya, Karshya",
+    "dose": "12 - 24 ml",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "A"
+  },
+  {
+    "name_of_medicine": "Chandanasava",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "200 ml",
+    "main_indications": "Shukrameha,\nMutrakriccha, Hridroga",
+    "dose": "12 - 24 ml",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "A"
+  },
+  {
+    "name_of_medicine": "Dashamularishta",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "200 ml",
+    "main_indications": "Vata Vyadhi, Daurbalya,\nPrasavottara roga",
+    "dose": "12 - 24 ml",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "A"
+  },
+  {
+    "name_of_medicine": "Drakshasava",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "200 ml",
+    "main_indications": "Aruchi, Hridroga, Pandu\nDuarbalya, Kshaya",
+    "dose": "12 - 24 ml",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "A"
+  },
+  {
+    "name_of_medicine": "Draksharishta",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "200 ml",
+    "main_indications": "Agnimandya, Kasa, Shvasa, Urahkshata, Kshaya, Malavarodha,\nDaurbalya",
+    "dose": "12 - 24 ml",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "A"
+  },
+  {
+    "name_of_medicine": "Jirakadyarishta",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "200 ml",
+    "main_indications": "Sutikaroga, Agnimandya,\nAtisara,Grahaniroga",
+    "dose": "12 - 24 ml",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "A"
+  },
+  {
+    "name_of_medicine": "Kanakasava",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "200 ml",
+    "main_indications": "Kasa, Shvasa, Rajayakshma,\nKshatakshina",
+    "dose": "12 - 24 ml",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "A"
+  },
+  {
+    "name_of_medicine": "Kumaryasava",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "200 ml",
+    "main_indications": "Rajodushti, Krichhrartav, Paktishula,\nParinamashula,",
+    "dose": "12 - 24 ml",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "A"
+  },
+  {
+    "name_of_medicine": "Kutajarishta",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "200 ml",
+    "main_indications": "Grahaniroga\u00b8 Pravahika,\nRaktatisara, Agnimandya",
+    "dose": "12 - 24 ml",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "A"
+  },
+  {
+    "name_of_medicine": "Khadirarishta",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "200 ml",
+    "main_indications": "Tvak Roga, Kushtha,\nKrimi, Arbuda",
+    "dose": "12 - 24 ml",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "A"
+  },
+  {
+    "name_of_medicine": "Lodhrasava/Rodh\nrasava",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "200 ml",
+    "main_indications": "Prameha, Pradara, Arsha\nGarbhasayaroga,",
+    "dose": "12 - 24 ml",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "A"
+  },
+  {
+    "name_of_medicine": "Lohasava",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "200 ml",
+    "main_indications": "Pandu, Kamala, Shotha,\nHridroga, Daurbalya",
+    "dose": "12 - 24 ml",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "A"
+  },
+  {
+    "name_of_medicine": "Mustakarishta",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "200 ml",
+    "main_indications": "Agnimandya, Ajirna, Grahaniroga, Visuchika",
+    "dose": "12 - 24 ml",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "A"
+  },
+  {
+    "name_of_medicine": "Pippalyadyasava",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "200 ml",
+    "main_indications": "Grahaniroga, Agnimandya, Gulma,\nUdararoga,",
+    "dose": "12   -   24   ml",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "A"
+  },
+  {
+    "name_of_medicine": "Rohitakarishta",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "200 ml",
+    "main_indications": "Pliha, Udararoga, Gulma,\nKamala",
+    "dose": "12   -   24   ml",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "A"
+  },
+  {
+    "name_of_medicine": "Sarasvatarishta",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "200 ml",
+    "main_indications": "Apasmara, Manasa Dosha, Smritibhransha,\nUdvega",
+    "dose": "12   -   24   ml",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "A"
+  },
+  {
+    "name_of_medicine": "Ushirasava",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "200 ml",
+    "main_indications": "Pittajaroga, Daha, Trisha,\nPittaja Netravyadhi",
+    "dose": "12   -   24   ml",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "A"
+  },
+  {
+    "name_of_medicine": "Vasakasava",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "200 ml",
+    "main_indications": "Kasa, Shvasa, Raktapitta",
+    "dose": "12   -   24   ml",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "A"
+  },
+  {
+    "name_of_medicine": "Punarnavasava",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "200 ml",
+    "main_indications": "Shotha, Pliha- Yakridroga,\nMutraroga",
+    "dose": "12   -   24   ml",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "A"
+  },
+  {
+    "name_of_medicine": "Arka  Yavani/Arka\nAjvayana",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "50 ml",
+    "main_indications": "Trikshula, Agnimandya,\nAnaha,",
+    "dose": "10 -  25 ml",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "B"
+  },
+  {
+    "name_of_medicine": "Arka Shatpushpa/\nMishr eyarka",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "50 ml",
+    "main_indications": "Mandagni, Adhamana,\nShula, Krimi,Yonishula",
+    "dose": "10 -  25 ml",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "B"
+  },
+  {
+    "name_of_medicine": "Arka Pudina",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "50 ml",
+    "main_indications": "Chhardi, Ajirna,\nUdarashula, Agnimandya",
+    "dose": "10 -  25 ml",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "B"
+  },
+  {
+    "name_of_medicine": "Agastya Haritaki\n/ Agastya Rasayana",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "100\ngm",
+    "main_indications": "Hikka, Kasa, Shvasa, Rasayana",
+    "dose": "5 -   15 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "C"
+  },
+  {
+    "name_of_medicine": "Bilvadi Leha",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "100\ngm",
+    "main_indications": "Jirna Pravahika, Aruchi,\nAgnimandya, Praseka, Chhardi",
+    "dose": "10 - 50 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "C"
+  },
+  {
+    "name_of_medicine": "Brahama Rasayana",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "100\ngm",
+    "main_indications": "Manodaurbalya, Jara,\nSmritibhransha",
+    "dose": "10-15 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "C"
+  },
+  {
+    "name_of_medicine": "Chitraka Haritaki",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "100\ngm",
+    "main_indications": "Pinasa, Kasa, Shvasa,",
+    "dose": "10 - 50 gm",
+    "precaution/_contraindication": "Pregnancy, Pitta Prakriti, Paittika\nRoga",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "C"
+  },
+  {
+    "name_of_medicine": "Chyavanprash\nAvaleha",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "100\ngm",
+    "main_indications": "Kasa,Shvasa, Rasayana",
+    "dose": "12-24 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "C"
+  },
+  {
+    "name_of_medicine": "Drakshavaleha",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "100\ngm",
+    "main_indications": "Pandu, Kamala, Halimaka, Daurbalya,\nKshaya",
+    "dose": "6-12 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "C"
+  },
+  {
+    "name_of_medicine": "Haridrakhanda\nPaka",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "100\ngm",
+    "main_indications": "Shitapitta, Kandu\nVisphota, Dadru,Udarda, Kotha",
+    "dose": "6 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "C"
+  },
+  {
+    "name_of_medicine": "Kutajavaleha",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "100\ngm",
+    "main_indications": "Atisara, Grahaniroga,\nPravahika",
+    "dose": "6 -12 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "C"
+  },
+  {
+    "name_of_medicine": "Kalyanak Guda",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "100\ngm",
+    "main_indications": "Udararoga, Gulma,\nBhagandar, Arsha",
+    "dose": "6-12 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "C"
+  },
+  {
+    "name_of_medicine": "Kantakaryavaleha",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "100\ngm",
+    "main_indications": "Hikka, Kasa, Shvasa, Jirna Pratishaya,\nParshvashula",
+    "dose": "6-12 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "C"
+  },
+  {
+    "name_of_medicine": "Kushmandaka Rasayana",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "100\ngm",
+    "main_indications": "Kasa, Shvasa, Urahkshata, Kshaya,\nRaktapitta, Amlapitta",
+    "dose": "6-12 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "C"
+  },
+  {
+    "name_of_medicine": "Puga Khanda/ Supari Paka",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "100\ngm",
+    "main_indications": "Vandhyaroga, Pradara, Somaroga, Garbhadosha,\nDaurbalya",
+    "dose": "6-12 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "C"
+  },
+  {
+    "name_of_medicine": "Saubhagyashunthi Paka",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "100\ngm",
+    "main_indications": "Prasavottara Lakshana, Sutikaroga,\nAgnimandya,",
+    "dose": "10-50 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "C"
+  },
+  {
+    "name_of_medicine": "Shatavariguda",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "100\ngm",
+    "main_indications": "Rajodosha, Yonidosha, Asrigdara, Padadaha,\nKarshya",
+    "dose": "6 -12 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "C"
+  },
+  {
+    "name_of_medicine": "Vasavaleha",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "100\ngm",
+    "main_indications": "Kasa , Shvasa, Jvara,\nParshvashula",
+    "dose": "6-12 gm",
+    "precaution/_contraindication": "Pregnancy",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "C"
+  },
+  {
+    "name_of_medicine": "Vyaghri Haritaki",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "100\ngm",
+    "main_indications": "Kasa, Shvasa,\nSvarakshaya, Pratishyaya, Pinasa",
+    "dose": "6-12 gm",
+    "precaution/_contraindication": "Pregnancy",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "C"
+  },
+  {
+    "name_of_medicine": "Punarnavadi Kashayam",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "100\ngm",
+    "main_indications": "Jvara, Kasa, Shotha",
+    "dose": "6-12 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "D"
+  },
+  {
+    "name_of_medicine": "Vyaghryadi Kashayam",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "100\ngm",
+    "main_indications": "Jvara, Kasa, Pinasa",
+    "dose": "6-12 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "D"
+  },
+  {
+    "name_of_medicine": "Dashamula Kvatha Churna",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "100\ngm",
+    "main_indications": "Jvara, Sutikadosha, Shula, Shotha, Vatavyadhi",
+    "dose": "25-50 ml",
+    "precaution/_contraindication": "Rasaksh aya, Bahumu\ntrata",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "D"
+  },
+  {
+    "name_of_medicine": "Dashmula Katutraya\nKvatha Churna",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "100\ngm",
+    "main_indications": "Shvasa,Kasa,Parshva\nshula, Vataroga",
+    "dose": "25-50 ml",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "D"
+  },
+  {
+    "name_of_medicine": "Dhanyapanchaka\nKashaya Churna",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "100\ngm",
+    "main_indications": "Amashula, Amatisara,\nAgnimandya, Aruchi",
+    "dose": "25-50 ml",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "D"
+  },
+  {
+    "name_of_medicine": "Guduchyadi Kashaya\nChurna",
+    "reference_text": "AH",
+    "dispensing_pack_size": "100gm",
+    "main_indications": "Agnimandhya, Pitta\nDushti, Jvara",
+    "dose": "25-50 ml",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "D"
+  },
+  {
+    "name_of_medicine": "Indukantam\nKashayam Churna",
+    "reference_text": "SY",
+    "dispensing_pack_size": "100\ngm",
+    "main_indications": "Vata Roga,Kshaya",
+    "dose": "25-50 ml",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "D"
+  },
+  {
+    "name_of_medicine": "Pancha-valkala Kashaya Churna",
+    "reference_text": "SS",
+    "dispensing_pack_size": "100\ngm",
+    "main_indications": "Vranashotha,Upadan sha, Shveta Pradara",
+    "dose": "100 ml Kvatha for washing wound/\nvaginal douche",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "D"
+  },
+  {
+    "name_of_medicine": "Pathyadi Kvatha(Shadanga) Churna",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "100\ngm",
+    "main_indications": "Shiroroga, Bhru- shankha-Karna Shula, Ardhavbhedaka,\nSuryavarta",
+    "dose": "25-50 ml",
+    "precaution/_contraindication": "Chhardi, Atisara, Ativirechanajanya Rasakshaya, Vataprakopa",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "D"
+  },
+  {
+    "name_of_medicine": "Phalatrikadi Kvatha Churna",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "100\ngm",
+    "main_indications": "Kamala, Pandu",
+    "dose": "25-50 ml",
+    "precaution/_contraindication": "Chhardi, Atisara, Ativirec hana janya Rasaksh aya, Vatapra\nkopa",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "D"
+  },
+  {
+    "name_of_medicine": "Rasnasaptaka Kashaya Churna",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "100\ngm",
+    "main_indications": "Janghashula, Urushula, Parshvashula, Trikshula, Prishashula",
+    "dose": "25-50 ml",
+    "precaution/_contraindication": "Concom itant use of Eranda Taila in\nGarbhini",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "D"
+  },
+  {
+    "name_of_medicine": "Shadanga Kvatha Churna",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "100\ngm",
+    "main_indications": "Trishna,Jvara",
+    "dose": "25-50 ml",
+    "precaution/_contraindication": "Nausea\ndue to bitterness",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "D"
+  },
+  {
+    "name_of_medicine": "Trinapanchamula\nKvatha Churna",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "100\ngm",
+    "main_indications": "Mutrakricchra",
+    "dose": "25-50 ml",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "D"
+  },
+  {
+    "name_of_medicine": "Varunadi Kvatha Churna",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "100\ngm",
+    "main_indications": "Ashmari, Mutrasthila",
+    "dose": "25-50 ml",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "D"
+  },
+  {
+    "name_of_medicine": "Vasaguduchyadi\nKashaya Churna",
+    "reference_text": "AH",
+    "dispensing_pack_size": "100gm",
+    "main_indications": "Pandu, Raktapitta",
+    "dose": "25-50 ml",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "D"
+  },
+  {
+    "name_of_medicine": "Amritadi Guggulu",
+    "reference_text": "BR",
+    "dispensing_pack_size": "10 gm",
+    "main_indications": "Vata Rakta,\nDushtavrana, Charma Vikara",
+    "dose": "500 mg - 1\ngm",
+    "precaution/_contraindication": "Long term\nuse in pregnancy",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "E"
+  },
+  {
+    "name_of_medicine": "Gokshuradi Guggulu",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "10 gm",
+    "main_indications": "Prameha, Mutrakricchra, Mutraghata, Ashmari,\nPradara",
+    "dose": "500 mg  - 1\ngm",
+    "precaution/_contraindication": "Long term use in pregnancy",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "E"
+  },
+  {
+    "name_of_medicine": "Kanchanara Guggulu",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "10 gm",
+    "main_indications": "Galaganda, Gandamala, Apachi, Arbuda, Granthi",
+    "dose": "500 mg  - 1\ngm",
+    "precaution/_contraindication": "Long term\nuse in pregnancy",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "E"
+  },
+  {
+    "name_of_medicine": "Kaishora Guggulu",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "10 gm",
+    "main_indications": "Vatashonita, Pramehapidika, Vrana,\nKustha",
+    "dose": "Up - 3 gm",
+    "precaution/_contraindication": "Long term use in\npregnancy",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "E"
+  },
+  {
+    "name_of_medicine": "Lakshadi Guggulu",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "10 gm",
+    "main_indications": "Asthibhagna, Asthichyuti, Asthiruja",
+    "dose": "Up - 3 gm",
+    "precaution/_contraindication": "Long term\nuse in pregnancy",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "E"
+  },
+  {
+    "name_of_medicine": "Navak Guggulu",
+    "reference_text": "BR",
+    "dispensing_pack_size": "10 gm",
+    "main_indications": "Sthaulya, Sandhigata Vata",
+    "dose": "500 mg  - 1 gm",
+    "precaution/_contraindication": "Long term use in\npregnancy",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "E"
+  },
+  {
+    "name_of_medicine": "Rasna Guggulu",
+    "reference_text": "SS",
+    "dispensing_pack_size": "10 gm",
+    "main_indications": "Gridhrasi, Amavata",
+    "dose": "500 mg  - 1 gm",
+    "precaution/_contraindication": "Long term use in\npregnancy",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "E"
+  },
+  {
+    "name_of_medicine": "Simhanada Guggulu",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "10 gm",
+    "main_indications": "Amavata, Vatarakta, Sandhi Shula,\nAgnimandya",
+    "dose": "Up to 3 gm in divided doses",
+    "precaution/_contraindication": "Pregnancy",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "E"
+  },
+  {
+    "name_of_medicine": "Saptavinshati\nGuggulu",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "10 gm",
+    "main_indications": "Parshvashula,Kasa\nShvasa, Hritshula",
+    "dose": "Up to 3 gm in divided\ndoses",
+    "precaution/_contraindication": "Pregnancy",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "E"
+  },
+  {
+    "name_of_medicine": "Triphala Guggulu",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "10 gm",
+    "main_indications": "Bhagandara, Arsha, Nadi Vrana, Gulma, Shotha",
+    "dose": "Up to 3 gm in divided doses",
+    "precaution/_contraindication": "Pregnancy Chronic or recurrent\ndiarrhoea",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "E"
+  },
+  {
+    "name_of_medicine": "Trayodashanga\nGuggulu",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "10 gm",
+    "main_indications": "Gridhrasi,\nSandhigraha, Katigraha",
+    "dose": "Up to 3 gm in\ndivided doses",
+    "precaution/_contraindication": "Pregnancy",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "E"
+  },
+  {
+    "name_of_medicine": "Punarnava Guggulu",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "10 gm",
+    "main_indications": "Vatarakta, Vriddhiroga, Gridhrasi,Vastigatas\nhula, Amavata",
+    "dose": "Up to 3 gm in divided doses",
+    "precaution/_contraindication": "Pregnancy",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "E"
+  },
+  {
+    "name_of_medicine": "Yogaraja Guggulu",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "10 gm",
+    "main_indications": "Amavata, Agnimandya, Sandhigatavata",
+    "dose": "Up to 3 gm in divided doses",
+    "precaution/_contraindication": "Pregnancy",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "E"
+  },
+  {
+    "name_of_medicine": "Brahmi Ghrita",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "100 gm",
+    "main_indications": "Apasmara, Unmada, Smritikshaya,\nBudhidaurbalya",
+    "dose": "10 - 15 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "F"
+  },
+  {
+    "name_of_medicine": "Dadimadi Ghrita",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "100 gm",
+    "main_indications": "Pandu,  Parinamshula,\nAgnimandya",
+    "dose": "10-15 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "F"
+  },
+  {
+    "name_of_medicine": "Guggulutiktaka Ghrita",
+    "reference_text": "AH",
+    "dispensing_pack_size": "100gm",
+    "main_indications": "Vata Roga",
+    "dose": "5-10 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "F"
+  },
+  {
+    "name_of_medicine": "Jathyadi Ghrita",
+    "reference_text": "AH",
+    "dispensing_pack_size": "100gm",
+    "main_indications": "Vrana, Dagdha Vrana",
+    "dose": "To be applied on affected part",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "F"
+  },
+  {
+    "name_of_medicine": "Kalyanaka Ghrita",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "100 gm",
+    "main_indications": "Bhutonmada, Apsmara,Balagraha, Visavikara, Garavisha,\nSmritidaurbalya",
+    "dose": "10-15 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "IPD",
+    "class": "F"
+  },
+  {
+    "name_of_medicine": "Kshirashatpala\nGhrita",
+    "reference_text": "CS",
+    "dispensing_pack_size": "100 gm",
+    "main_indications": "Gulma, Grahaniroga,\nPliha",
+    "dose": "Up to 50 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "IPD",
+    "class": "F"
+  },
+  {
+    "name_of_medicine": "Panchatikta Ghrita",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "100 gm",
+    "main_indications": "Dushtavrana, Tvak\nVikara",
+    "dose": "5-10 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "F"
+  },
+  {
+    "name_of_medicine": "Phala Ghrita",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "100 gm",
+    "main_indications": "Yonivyapat",
+    "dose": "10-15 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "IPD",
+    "class": "F"
+  },
+  {
+    "name_of_medicine": "Shatavaryadi Ghrita",
+    "reference_text": "SY",
+    "dispensing_pack_size": "100 gm",
+    "main_indications": "Mutraghata",
+    "dose": "10-15 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "IPD",
+    "class": "F"
+  },
+  {
+    "name_of_medicine": "Sukumar Ghrita",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "100 gm",
+    "main_indications": "Vidvibandha, Udararoga, Gulma,\nYonishula,  Pliharoga",
+    "dose": "10-15 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "F"
+  },
+  {
+    "name_of_medicine": "Indu kanta Ghrita",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "100 gm",
+    "main_indications": "Shula, Udara, Vishama\nJvara",
+    "dose": "10-15 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "IPD",
+    "class": "F"
+  },
+  {
+    "name_of_medicine": "Tiktaka Ghrita",
+    "reference_text": "AH",
+    "dispensing_pack_size": "100 gm",
+    "main_indications": "Tvakroga",
+    "dose": "10-15 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "F"
+  },
+  {
+    "name_of_medicine": "Triphala Ghrita",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "100 gm",
+    "main_indications": "Kamala, Timira, Netraroga, Visarpa,\nKhalitya",
+    "dose": "10-15 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "F"
+  },
+  {
+    "name_of_medicine": "Ajamodadi\nChurna",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "25 gm",
+    "main_indications": "Shula, Gridhrasi,\nAmvata",
+    "dose": "3-6 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": NaN,
+    "class": "G"
+  },
+  {
+    "name_of_medicine": "Avipattikara Churna",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "50 gm",
+    "main_indications": "Amlapitta,\nVidagdhajirna",
+    "dose": "3-6 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": NaN,
+    "class": "G"
+  },
+  {
+    "name_of_medicine": "Balachaturbhadra\nChurna",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "25 gm",
+    "main_indications": "Jvara, Atisara, Bala\nShosha",
+    "dose": "250 - 500 mg",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": NaN,
+    "class": "G"
+  },
+  {
+    "name_of_medicine": "Bilvadi Churna",
+    "reference_text": "CA(U)",
+    "dispensing_pack_size": "50 gm",
+    "main_indications": "Shotha,Shula Yukta\nBradhna",
+    "dose": "3-6 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": NaN,
+    "class": "G"
+  },
+  {
+    "name_of_medicine": "Dadimastak Churna",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "50 gm",
+    "main_indications": "Grahaniroga, Atisara,\nAruchi",
+    "dose": "3-6 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": NaN,
+    "class": "G"
+  },
+  {
+    "name_of_medicine": "Dashanasanskara\nChurna",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "50 gm",
+    "main_indications": "Mukha Roga, Danta\nRoga",
+    "dose": "Use as tooth powder",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": NaN,
+    "class": "G"
+  },
+  {
+    "name_of_medicine": "Eladi Churna",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "25 gm",
+    "main_indications": "Kasa, Shvasa",
+    "dose": "2 -4 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": NaN,
+    "class": "G"
+  },
+  {
+    "name_of_medicine": "Hingvashtaka\nChurna",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "50 gm",
+    "main_indications": "Agnimandya, Shula,\nGulma,Vataroga",
+    "dose": "2- 4 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": NaN,
+    "class": "G"
+  },
+  {
+    "name_of_medicine": "Lavanabhaskara Churna/ Bhaskarlavan churna",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "50 gm",
+    "main_indications": "Agnimandya, Gulma, Ajirna, Grahaniroga, Vatakaphajaroga,",
+    "dose": "3-6 gm",
+    "precaution/_contraindication": "Shotha, Jalodara, hyperten sion, long\nterm use",
+    "preferred_use_(opd/_ipd)": NaN,
+    "class": "G"
+  },
+  {
+    "name_of_medicine": "Nisha-Amalaki\nChurna",
+    "reference_text": "AH",
+    "dispensing_pack_size": "50 gm",
+    "main_indications": "Prameha, Madhumeha",
+    "dose": "3-6 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": NaN,
+    "class": "G"
+  },
+  {
+    "name_of_medicine": "Pushyanuga Churna",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "25 gm",
+    "main_indications": "Raktapradara,\nShwetapradara, Raktarsha",
+    "dose": "2-3 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": NaN,
+    "class": "G"
+  },
+  {
+    "name_of_medicine": "Panchanimba Churna",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "25 gm",
+    "main_indications": "Kshudrakushtha, Mahakushtha,\nRaktadushti",
+    "dose": "3- 5 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": NaN,
+    "class": "G"
+  },
+  {
+    "name_of_medicine": "Sitopaladi Churna",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "25 gm",
+    "main_indications": "Shvasa, Kasa, Kshaya,\nUrdhvaga  Raktapitta",
+    "dose": "2-3gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": NaN,
+    "class": "G"
+  },
+  {
+    "name_of_medicine": "Talishadya Churna",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "25 gm",
+    "main_indications": "Kasa, Shvasa,\nPratishyaya, Jvara",
+    "dose": "2-4 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": NaN,
+    "class": "G"
+  },
+  {
+    "name_of_medicine": "Trikatu Churna",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "25 gm",
+    "main_indications": "Arochaka, Ama, Agnimandya",
+    "dose": "1-2 gm",
+    "precaution/_contraindication": "Paittika Vikara or Prakriti, Raktaj Roga, pregnancy\n, long\nterm use",
+    "preferred_use_(opd/_ipd)": NaN,
+    "class": "G"
+  },
+  {
+    "name_of_medicine": "Triphala Churna",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "50 gm",
+    "main_indications": "Anaha, Prameha,\nNetraroga",
+    "dose": "3-6 gm",
+    "precaution/_contraindication": "Dehydra\n-tion",
+    "preferred_use_(opd/_ipd)": NaN,
+    "class": "G"
+  },
+  {
+    "name_of_medicine": "Jatiphaladya Churna",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "25 gm",
+    "main_indications": "Atisara, Pravahika, Vatashlaismika Pratishyaya",
+    "dose": "1-3 gm",
+    "precaution/_contraindication": "Infantile, diarrhea, long term\nuse",
+    "preferred_use_(opd/_ipd)": NaN,
+    "class": "G"
+  },
+  {
+    "name_of_medicine": "Amalaki Churna",
+    "reference_text": "API",
+    "dispensing_pack_size": "50 gm",
+    "main_indications": "Prameha, Raktapitta,\nAmlapitta,Daha",
+    "dose": "3-6 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "H"
+  },
+  {
+    "name_of_medicine": "Arjuna Churna",
+    "reference_text": "API",
+    "dispensing_pack_size": "50 gm",
+    "main_indications": "Hridroga, Prameha",
+    "dose": "3-6 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "H"
+  },
+  {
+    "name_of_medicine": "Ashvagandha Churna",
+    "reference_text": "API",
+    "dispensing_pack_size": "50 gm",
+    "main_indications": "Kshaya, Daurbalya, Vatroga,Klaivya",
+    "dose": "3-6 gm",
+    "precaution/_contraindication": "Long term use may increase blood\npressure",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "H"
+  },
+  {
+    "name_of_medicine": "Gokshura Churna",
+    "reference_text": "API",
+    "dispensing_pack_size": "50 gm",
+    "main_indications": "Mutraghata,\nMutrashmari, Vrishya, Rasayana",
+    "dose": "2-5 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "H"
+  },
+  {
+    "name_of_medicine": "Guduchi Churna",
+    "reference_text": "API",
+    "dispensing_pack_size": "50 gm",
+    "main_indications": "Kushtha, Jvara,Vatarakta,Kam\nala,Pandu, Prameha",
+    "dose": "3-6 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "H"
+  },
+  {
+    "name_of_medicine": "Haritaki Churna",
+    "reference_text": "API",
+    "dispensing_pack_size": "50 gm",
+    "main_indications": "Vibandha, Udararoga",
+    "dose": "3-6 gm",
+    "precaution/_contraindication": "Debility, pregnancy, dehydration\n, Paittika Roga,",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "H"
+  },
+  {
+    "name_of_medicine": "Pippali Churna",
+    "reference_text": "API",
+    "dispensing_pack_size": "25 gm",
+    "main_indications": "Rasayana, Jvara, Shvasa, Kasa",
+    "dose": "1-2 gm",
+    "precaution/_contraindication": "Long term use in higher\ndoses",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "H"
+  },
+  {
+    "name_of_medicine": "Pippali mula Churna",
+    "reference_text": "API",
+    "dispensing_pack_size": "25 gm",
+    "main_indications": "Udararoga, Anaha,\nGulma, Shiroroga",
+    "dose": "500mg -1 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "H"
+  },
+  {
+    "name_of_medicine": "Punarnava Churna",
+    "reference_text": "API",
+    "dispensing_pack_size": "50 gm",
+    "main_indications": "Shotha, Pandu",
+    "dose": "2-3 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "H"
+  },
+  {
+    "name_of_medicine": "Shunthi Churna",
+    "reference_text": "API",
+    "dispensing_pack_size": "25 gm",
+    "main_indications": "Amavata, Agnimandya\nUdararoga,Shvasa",
+    "dose": "2- 3 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "H"
+  },
+  {
+    "name_of_medicine": "Sarasvata Churna",
+    "reference_text": "BR",
+    "dispensing_pack_size": "25 gm",
+    "main_indications": "Medhya, Smriti and\nBuddhi Vardhaka",
+    "dose": "1-2 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "H"
+  },
+  {
+    "name_of_medicine": "Trivritamul Churna / Trivrita Churna",
+    "reference_text": "API",
+    "dispensing_pack_size": "25 gm",
+    "main_indications": "Malabandha, Gulma, Udararoga",
+    "dose": "2-3gm",
+    "precaution/_contraindication": "Dehydrat ion, malnutrit ion,  long\nterm use",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "H"
+  },
+  {
+    "name_of_medicine": "Vidanga Churna",
+    "reference_text": "API",
+    "dispensing_pack_size": "50 gm",
+    "main_indications": "Krimiroga, Medoroga",
+    "dose": "5-10  gm",
+    "precaution/_contraindication": "May prevent or disrupt\nconception",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "H"
+  },
+  {
+    "name_of_medicine": "Yashtimadhu/ Madhuyashti/ Yashti Churna",
+    "reference_text": "API",
+    "dispensing_pack_size": "50 gm",
+    "main_indications": "Rasayana,Kasa, Shvasa, Vranaropana, Kshaya, Svarbheda",
+    "dose": "Up to 12 gm",
+    "precaution/_contraindication": "Obesity, hypertensio\nn, oedema, long term use",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "H"
+  },
+  {
+    "name_of_medicine": "Anutaila",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "10 ml",
+    "main_indications": "Urdhvajatrugataroga,\nPalitya",
+    "dose": "2-10 drops for  nasal\nadministration",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "I"
+  },
+  {
+    "name_of_medicine": "Apamargkshara\nTaila",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "10 ml",
+    "main_indications": "Badhirya, Karnanada,\nKarnagutha",
+    "dose": "2-5 drops in each ear",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "I"
+  },
+  {
+    "name_of_medicine": "Bala Taila",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "50 ml",
+    "main_indications": "Kshata,Kshaya, Vatavyadhi, Shosha,\nGulma",
+    "dose": "For Abhyanga",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "I"
+  },
+  {
+    "name_of_medicine": "Balashvagandhadi\nTaila",
+    "reference_text": "AH",
+    "dispensing_pack_size": "50 ml",
+    "main_indications": "Balaroga",
+    "dose": "For Jwara",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "I"
+  },
+  {
+    "name_of_medicine": "Bhringaraja Tail",
+    "reference_text": "BR",
+    "dispensing_pack_size": "50 ml",
+    "main_indications": "Keshapata, Shiroroga, Khalitya, Indralupta",
+    "dose": "For Nasya, Shiroabhyanga,\nKavalgraha",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "I"
+  },
+  {
+    "name_of_medicine": "Dhanvantar Taila/Dhanvantar\nTaila Avarti",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "10 ml",
+    "main_indications": "Vataroga, Pakshavadha, Dhatukshaya,\nSutikaroga, Balaroga",
+    "dose": "10-30 drops for internal use",
+    "precaution/_contraindication": "Amadosh a",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "I"
+  },
+  {
+    "name_of_medicine": "Eranda Taila",
+    "reference_text": "CD",
+    "dispensing_pack_size": "50 ml",
+    "main_indications": "Vatavikara,Gridhrasi, Vibandha, Katishula",
+    "dose": "10-30 ml",
+    "precaution/_contraindication": "Peri- conceptio n period, long term use in\npregnancy",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "I"
+  },
+  {
+    "name_of_medicine": "Erimedadi Taila",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "25 ml",
+    "main_indications": "Mukha Roga , Dantaroga",
+    "dose": "For Kavalgraha, Pratisarana, Nasya,\nShirodharana",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "I"
+  },
+  {
+    "name_of_medicine": "Gandharvahasta Taila",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "50 ml",
+    "main_indications": "Vidradhi, Udara, Mahavataroga, Gulma,\nUdavarta",
+    "dose": "6-12 ml",
+    "precaution/_contraindication": "Ajirna, Amavast\nha",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "I"
+  },
+  {
+    "name_of_medicine": "Jatyadi Taila",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "25 ml",
+    "main_indications": "Vrana, Vranashotha",
+    "dose": "Application on wound\nor injury",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "I"
+  },
+  {
+    "name_of_medicine": "Kshirbala Taila / Kshirbala Taila Avarti (Shatapaki)",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "50 ml",
+    "main_indications": "Vatarakta, Vataroga, Sukradosha, Rajodosha, Karshya",
+    "dose": "Internal  use: 10-\n12 ml External use:\nAbhyanga and Nasya",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "I"
+  },
+  {
+    "name_of_medicine": "Kottamachukkadi\nTaila",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "50 ml",
+    "main_indications": "Vataroga, Amavata,\nAngasthambha",
+    "dose": "For Abhyanga",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "I"
+  },
+  {
+    "name_of_medicine": "Karpuradi Taila",
+    "reference_text": "SY",
+    "dispensing_pack_size": "50 ml",
+    "main_indications": "Khalli, Angavedana,\nSandhivedana",
+    "dose": "For Abhyanga",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "I"
+  },
+  {
+    "name_of_medicine": "Kasisadi Taila",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "25 ml",
+    "main_indications": "Arsha",
+    "dose": "External use for\nArshankura",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "I"
+  },
+  {
+    "name_of_medicine": "Laghuvishagarbha\nTaila",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "50 ml",
+    "main_indications": "Vataroga, Pakshaghat,",
+    "dose": "For Abhyanga",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "I"
+  },
+  {
+    "name_of_medicine": "Marichyadi Taila",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "25 ml",
+    "main_indications": "Kandu, Vicharchika",
+    "dose": "Application on\naffected part",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "I"
+  },
+  {
+    "name_of_medicine": "Mahanarayan Taila",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "50 ml",
+    "main_indications": "Vataroga, Pakshaghata,\nArdita, Vandhyatva",
+    "dose": "For Abhyanga, Nasya,\nAnuvasana Vasti",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "I"
+  },
+  {
+    "name_of_medicine": "Brihanmasha Taila\n/Mahamash Taila",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "50 ml",
+    "main_indications": "Ardita , Shirokampa, Vidradhi, Bahushosha,\nAvabahuka",
+    "dose": "For Abhyanga",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "I"
+  },
+  {
+    "name_of_medicine": "Murivenna Tail",
+    "reference_text": "SY",
+    "dispensing_pack_size": "50 ml",
+    "main_indications": "Abhighataja Vedana\nand Vata Vikara",
+    "dose": "For Abhyanga",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "I"
+  },
+  {
+    "name_of_medicine": "Narayana Taila",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "50 ml",
+    "main_indications": "Vataroga, Pangu, Shirogatavata, Manyastambha,\nHanustambha",
+    "dose": "Internal  use: 6 gm External use: f Nasya, Abhyanga and\nAnuvasana Vasti",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "I"
+  },
+  {
+    "name_of_medicine": "Nalpamaradi Taila",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "25 ml",
+    "main_indications": "Tvakroga, Kushta,\nPama, Kandu",
+    "dose": "For  Pratisarana,\nAbhyanga",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "I"
+  },
+  {
+    "name_of_medicine": "Nirgundi Taila",
+    "reference_text": "BR",
+    "dispensing_pack_size": "25 ml",
+    "main_indications": "Nadivrana, Pama, Apachi, Gandamala, Galaganda",
+    "dose": "Internal  use: 15- 30 ml\nExternal use: Abhyanga and 2-6 drops for Nasya or\nKarnapuran",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "I"
+  },
+  {
+    "name_of_medicine": "Panchaguna Taila",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "50 ml",
+    "main_indications": "Sandhigatvata, Karnashula,Vrana",
+    "dose": "For Abhyanga, wound dressing Karnapurana\nor Karnabindu",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "I"
+  },
+  {
+    "name_of_medicine": "Pinda Taila",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "50 ml",
+    "main_indications": "Vataraktaruja, Daha",
+    "dose": "Used externally for\nAbhyanga",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "I"
+  },
+  {
+    "name_of_medicine": "Prasarini Taila",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "50 ml",
+    "main_indications": "Vataroga,Gridhrasi, Khanja, Panguvata",
+    "dose": "For Abhyanga over affected body part",
+    "precaution/_contraindication": "Not to be used in Guda roga, Krisha rogi, Ajirna, Vamit, Kritnasy a,\nVirikta",
+    "preferred_use_(opd/_ipd)": "IPD",
+    "class": "I"
+  },
+  {
+    "name_of_medicine": "Sahacharadi Taila/ Brihatsahcharadi Taila",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "50 ml",
+    "main_indications": "Vatavyadhi, Kampa, Unmada, Pinasa, Yoniroga, Akshepa",
+    "dose": "Internal  use: 6-12 ml\nExternal use for Abhyanga",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "IPD",
+    "class": "I"
+  },
+  {
+    "name_of_medicine": "Saindhavadi Taila",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "50 ml",
+    "main_indications": "Kaphavataja Nadivrana,",
+    "dose": "For Abhyanga",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "IPD",
+    "class": "I"
+  },
+  {
+    "name_of_medicine": "Shadabindu Taila",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "10 ml",
+    "main_indications": "Drishtidaurbalya, Keshashata, Shiroroga,",
+    "dose": "For Nasya, Kavalgraha,\nAbhyanga, Shiroabhyanga",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "IPD",
+    "class": "I"
+  },
+  {
+    "name_of_medicine": "Somaraji Taila\n/Bakuchi Taila",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "25 ml",
+    "main_indications": "Shvitra, Kushtha",
+    "dose": "For local application on affected body part",
+    "precaution/_contraindication": "Discontinue if excessive irritation, vescication, extensive hyperpigmentation\nappears",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "I"
+  },
+  {
+    "name_of_medicine": "Apamarga Kshar",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "10 gm",
+    "main_indications": "Gulma, Grahani, Shvasa,\nSharkara, Ashmari",
+    "dose": "125-500 mg",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "J"
+  },
+  {
+    "name_of_medicine": "Yavakshar",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "10 gm",
+    "main_indications": "Adhamana, Anaha,\nGulma, Mutrakricchra",
+    "dose": "500 mg - 1 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "J"
+  },
+  {
+    "name_of_medicine": "Ksharsutra",
+    "reference_text": "CD",
+    "dispensing_pack_size": "30\nCm thread of 20\nNo",
+    "main_indications": "Bhagandara, Arsha, Nadivrana, Charmkila",
+    "dose": "To be applied on affected part",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "IPD",
+    "class": "J"
+  },
+  {
+    "name_of_medicine": "Dashanga Lepa",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "50 gm",
+    "main_indications": "Visarpa, Sthanika\nShotha, Kushtha",
+    "dose": "To apply on affected\npart",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "K"
+  },
+  {
+    "name_of_medicine": "Shveta Malaham",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "25gm",
+    "main_indications": "Agnidagdha",
+    "dose": "To apply on affected\npart",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "K"
+  },
+  {
+    "name_of_medicine": "Sarjarasa Malahara",
+    "reference_text": "RTSSP S",
+    "dispensing_pack_size": "25 gm",
+    "main_indications": "Dushta Vrana, Arsha,\nGudapaka, Vidarika",
+    "dose": "To apply on affected\npart",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "K"
+  },
+  {
+    "name_of_medicine": "Abhayadi Modakam",
+    "reference_text": "SS",
+    "dispensing_pack_size": "20 gm",
+    "main_indications": "Malabandha",
+    "dose": "2-4 modakam",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "L"
+  },
+  {
+    "name_of_medicine": "Bilvadi Gutika",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "5 gm",
+    "main_indications": "Vishuchika, Ajirna,\nGaradosha, Jvara",
+    "dose": "1-2 pills",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "L"
+  },
+  {
+    "name_of_medicine": "Chandraprabha Vati",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "5 gm",
+    "main_indications": "Prameha, Mutrakricchra, Mutraghata, Ashmari, Striroga, Daurbalya,\nPandu, Kamala",
+    "dose": "250 mg",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "L"
+  },
+  {
+    "name_of_medicine": "Chitrakadi Gutika",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "5 gm",
+    "main_indications": "Agnimandya, Amadosha, Grahaniroga",
+    "dose": "250-500 mg",
+    "precaution/_contraindication": "Pregnancy, Uterine bleeding, Pitta Prakriti, Raktpittaj Roga, long\nterm use",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "L"
+  },
+  {
+    "name_of_medicine": "Dhanvantar Gutika",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "5 gm",
+    "main_indications": "Kasa, Shvasa, Hridroga,\nYakshma,Hikka",
+    "dose": "250 -500 mg",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "L"
+  },
+  {
+    "name_of_medicine": "Eladi Gutika",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "10 gm",
+    "main_indications": "Kasa, Shvasa, Chhardi,\nBhrama, Svarabheda, Raktanishthivana",
+    "dose": "500 mg -1 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "L"
+  },
+  {
+    "name_of_medicine": "Kankayan Gutika",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "10 gm",
+    "main_indications": "Gulma, Krimi, Arsha",
+    "dose": "500 mg- 1 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "L"
+  },
+  {
+    "name_of_medicine": "Khadiradi Gutika (Mukhroga)",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "10 gm",
+    "main_indications": "Mukhdaurgandhya, Mukhapaka, Dantaroga,\nGalaroga",
+    "dose": "1 - 2 pills",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "L"
+  },
+  {
+    "name_of_medicine": "Kutajaghan Vati",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "5  gm",
+    "main_indications": "Atisara, Grahani,\nJvaratisara",
+    "dose": "250-500 mg",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "L"
+  },
+  {
+    "name_of_medicine": "Lavangadi Vati",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "5 gm",
+    "main_indications": "Kasa, Shvasa",
+    "dose": "1-2 pills",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "L"
+  },
+  {
+    "name_of_medicine": "Lahsunadi Vati",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "10 gm",
+    "main_indications": "Visuchika, Ajirna, Atisara",
+    "dose": "500 mg -1 gm",
+    "precaution/_contraindication": "Hyperacidity, Peptic Ulcer, Pitta Prakriti, history of Raktapitt aja\nVikara",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "L"
+  },
+  {
+    "name_of_medicine": "Prabhakara Vati",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "5 gm",
+    "main_indications": "Hridroga, Daurbalya",
+    "dose": "125-250 mg",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "L"
+  },
+  {
+    "name_of_medicine": "Rajahpravartini Vati",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "5 gm",
+    "main_indications": "Rajorodha, Kastartava",
+    "dose": "250 mg",
+    "precaution/_contraindication": "Pregnancy, lactation, excessive Uterine Bleeding, kidney disease, discontinue in case of severe abdominal\npain",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "L"
+  },
+  {
+    "name_of_medicine": "Samshamani Vati\n/ Guduchighana Vati",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "5 gm",
+    "main_indications": "Jvara, Jirna Jvara,\nVishma Jvara, Daha",
+    "dose": "250-500 mg",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "L"
+  },
+  {
+    "name_of_medicine": "Sarpagandhaghana Vati",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "5 gm",
+    "main_indications": "Anidra, Manodvega",
+    "dose": "250-500 mg",
+    "precaution/_contraindication": "Concomi tant use of medicines made of Vatsanab ha\nor Gok shuru, anti hyperten sives/ depressa nts/ psychotropic medicines postural hypotens ion,\nbradycar dia",
+    "preferred_use_(opd/_ipd)": "Both\n-",
+    "class": "L"
+  },
+  {
+    "name_of_medicine": "Sanjivani Vati",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "5 gm",
+    "main_indications": "Mandagni, Ajirna, Gulma, Visuchika, Sarpadamsha",
+    "dose": "125 mg",
+    "precaution/_contraindication": "Pitta Prakriti individuals, hyper sensitivity to Bhallataka, patients having history of Raktapittaja Vikara,\npregnancy, cardiac arrhythmia,\nlong term use",
+    "preferred_use_(opd/_ipd)": "Both\n-",
+    "class": "L"
+  },
+  {
+    "name_of_medicine": "Vettumaran Gulika",
+    "reference_text": "SY",
+    "dispensing_pack_size": "5 gm",
+    "main_indications": "Jvara, Chhardi,\nMutraghata, Gulma",
+    "dose": "250-375 mg",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "L"
+  },
+  {
+    "name_of_medicine": "Elanirkuzambu/N alikeranjana",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "25 ml",
+    "main_indications": "Netravrana, Arma,\nTimira, Pittaja Netraroga, Abhishyanda",
+    "dose": "1-2 drops to be instilled in eyes",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "M"
+  },
+  {
+    "name_of_medicine": "Guduchi Sattva",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "25 gm",
+    "main_indications": "Jvara, Vatarakta,\nKamala, Prameha",
+    "dose": "500 mg- 1gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "N"
+  },
+  {
+    "name_of_medicine": "Panchamrita Parpati",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "5 gm",
+    "main_indications": "Grahani, Atisara, Agnimandya, Kshaya",
+    "dose": "125- 250 mg",
+    "precaution/_contraindication": "Peri- concepti onal period, pregnanc y, lactation period, kidney disease, small\nchildren",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "O"
+  },
+  {
+    "name_of_medicine": "Shveta Parpati/Kshara\nParpati",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "10 gm",
+    "main_indications": "Ashmari, Mutrakriccha, Mutraghata",
+    "dose": "500 mg- 1 gm",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "O"
+  },
+  {
+    "name_of_medicine": "Akika Pishti",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "5 gm",
+    "main_indications": "Hriddaha, Hridroga,\nKshaya, Shiroroga, Kasa,",
+    "dose": "125 -- 250 mg",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "P"
+  },
+  {
+    "name_of_medicine": "Mukta Pishti",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "2 gm",
+    "main_indications": "Manodosha, Unmada, Hridroga",
+    "dose": "65-125 mg",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "IPD",
+    "class": "P"
+  },
+  {
+    "name_of_medicine": "Pravala Pishti",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "5 gm",
+    "main_indications": "Kasa, Pittaroga, Manodaurbalya,\nOjakshya, Hridroga",
+    "dose": "250 mg",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "P"
+  },
+  {
+    "name_of_medicine": "Godanti Bhasma",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "10 gm",
+    "main_indications": "Shirahshula, Pitta Jvara, Jirnajvara, Daha",
+    "dose": "500 mg- 1 gm  with ghee, sugar, warm\nmilk or water",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "Q"
+  },
+  {
+    "name_of_medicine": "Jaharamohara\nBhasma",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "5 gm",
+    "main_indications": "Hridroga, Raktapitta,\nArsha, Raktaj Pravahika",
+    "dose": "250- 500 mg",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "Q"
+  },
+  {
+    "name_of_medicine": "Kapardika Bhasma",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "5 gm",
+    "main_indications": "Parinamashula, Agnimandya, Karnasrava",
+    "dose": "250 mg",
+    "precaution/_contraindication": "Not to be used on change of physical\ncharacter istics",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "Q"
+  },
+  {
+    "name_of_medicine": "Mandur Bhasma",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "5 gm",
+    "main_indications": "Kamala, Pandu",
+    "dose": "250-500 mg",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "Q"
+  },
+  {
+    "name_of_medicine": "Muktashukti Bhasma",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "5 gm",
+    "main_indications": "Udarashula,Jvara, Pitta\nJvara, Raktajroga",
+    "dose": "250-500 mg",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "Q"
+  },
+  {
+    "name_of_medicine": "Shankha Bhasma",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "5 gm",
+    "main_indications": "Agnimandya, Amlapitta, Vidagdhajirna,\nParinamashula,",
+    "dose": "250 mg",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "Q"
+  },
+  {
+    "name_of_medicine": "Sphatika Bhasma",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "5 gm",
+    "main_indications": "Jvara, Kaphaja Vrana, Shvitra, Visarpa,, Raktasrava,\nYonibhransha",
+    "dose": "125-250 mg",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "Q"
+  },
+  {
+    "name_of_medicine": "Tankana Bhasma/\nSaubhagya Bhasma",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "5 mg",
+    "main_indications": "Kasa, Shvasa",
+    "dose": "125 - 250 mg",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "Q"
+  },
+  {
+    "name_of_medicine": "Punarnavadi Mandura",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "5 gm",
+    "main_indications": "Pandu, Shotha, Pliharoga",
+    "dose": "250-500 mg",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "R"
+  },
+  {
+    "name_of_medicine": "Arogyavardhini\nVati/Rasa",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "5 gm",
+    "main_indications": "Kushta, Medoroga,\nJvara",
+    "dose": "250-500 mg",
+    "precaution/_contraindication": "Old age,\nPaediatric age group, periconc eptional period, pregnancy, lactation period, kidney\ndisease, karshaya",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "S"
+  },
+  {
+    "name_of_medicine": "Arsho Kuthara Rasa",
+    "reference_text": "BR",
+    "dispensing_pack_size": "5 gm",
+    "main_indications": "Arsha",
+    "dose": "250 mg",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "S"
+  },
+  {
+    "name_of_medicine": "Brahmi Vati",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "5 gm",
+    "main_indications": "Bhrama, Manoroga, Aptantrak, Akshepa,\nHriddaurbalya",
+    "dose": "125-250 mg",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "S"
+  },
+  {
+    "name_of_medicine": "Gandhak Rasayana",
+    "reference_text": "YR",
+    "dispensing_pack_size": "5 gm",
+    "main_indications": "Kushta,  Raktadushti, Prameha",
+    "dose": "250-500 mg",
+    "precaution/_contraindication": "Hyperse nsitivity, loose\nmotions",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "S"
+  },
+  {
+    "name_of_medicine": "Kamadudha  Rasa",
+    "reference_text": "RYS",
+    "dispensing_pack_size": "5 gm",
+    "main_indications": "Amlapitta, Raktapitta, Daha, JirnaJvara,\nPradara",
+    "dose": "125-250 mg",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "S"
+  },
+  {
+    "name_of_medicine": "Laghumalini Vasanta Rasa",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "5 gm",
+    "main_indications": "Kshaya, Yakshma, Pradara, Netraroga, Arsha, JirnaJvara",
+    "dose": "125- 250 mg",
+    "precaution/_contraindication": "Kidney disease, long term\nuse",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "S"
+  },
+  {
+    "name_of_medicine": "Laghu Sutashekhara Rasa",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "5 gm",
+    "main_indications": "Pittaja Shirahshula, Ardhavbhedaka, Suryavarta, Daha, Urdhvaga raktapitta",
+    "dose": "250-500mg",
+    "precaution/_contraindication": "Long term use, pregnancy lactation period, paediatric age\ngroup",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "S"
+  },
+  {
+    "name_of_medicine": "Navajivana Rasa",
+    "reference_text": "RTS",
+    "dispensing_pack_size": "2 gm",
+    "main_indications": "Hridya , Balya, Shulahara",
+    "dose": "625-125 mg",
+    "precaution/_contraindication": "Long term use, hyperten sion,\npregnancy",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "S"
+  },
+  {
+    "name_of_medicine": "Shankha Vati",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "5 gm",
+    "main_indications": "Grahani, Atisara, Amajirna, Visuchika, Shula",
+    "dose": "250-500 mg in divided doses",
+    "precaution/_contraindication": "Kidney disease, bradycar- dia, arrhy- thmia, hypotens ion,  long term use, peri- concepti onal period period,\npregnancy, lactating mothers and debilitate\npatients",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "S"
+  },
+  {
+    "name_of_medicine": "Shirahshuladi vajra Rasa",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "5 gm",
+    "main_indications": "Shirahshula, Shiroroga",
+    "dose": "250-500 mg\nin single or divided dose",
+    "precaution/_contraindication": "Kidney disease, long term use, peri- concepti onal period, pregnancy, lactating mothers, debilitay ed\npatients",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "S"
+  },
+  {
+    "name_of_medicine": "Shvasakuthara Rasa",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "5 gm",
+    "main_indications": "Kasa, Shvasa, Vatakaphaja Roga",
+    "dose": "125-250 mg",
+    "precaution/_contraindication": "Kidney disease, bradycar dia, arrhy- thmia, hypotens ion,  long term adm- inist ration, periconc eptional period, pregnancy, lactating mothers, debilitate\npatients",
+    "preferred_use_(opd/_ipd)": "IPD",
+    "class": "S"
+  },
+  {
+    "name_of_medicine": "Smritisagara Rasa",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "5 gm",
+    "main_indications": "Apasmara, Smriti\nDaurbalya",
+    "dose": "125-250 mg",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "S"
+  },
+  {
+    "name_of_medicine": "Tribhuvankirti Rasa",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "5 gm",
+    "main_indications": "Jvara, Pratishyaya, Kasa",
+    "dose": "125-250 mg",
+    "precaution/_contraindication": "Bradycar dia, arrhythm ias, small children, Vrikka Roga, long term administ ration, periconc eptional period,\npregnancy, debilitate patients",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "S"
+  },
+  {
+    "name_of_medicine": "Vatagajankusha Rasa",
+    "reference_text": "BR",
+    "dispensing_pack_size": "5 gm",
+    "main_indications": "Vata Roga, Avabahuka, Urustambha, Pakshaghata,Gridhrasi",
+    "dose": "250 mg",
+    "precaution/_contraindication": "Long term use, Vrikka Roga, peri- concepti onal period, pregnancy, lactation and\ndebilitate patients",
+    "preferred_use_(opd/_ipd)": "IPD",
+    "class": "S"
+  },
+  {
+    "name_of_medicine": "Vatavidhavansan Rasa",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "5 gm",
+    "main_indications": "Vatajashula, Sutika Vata, Grahaniroga",
+    "dose": "250 mg",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "IPD",
+    "class": "S"
+  },
+  {
+    "name_of_medicine": "Navayasa Lauha",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "5 gm",
+    "main_indications": "Pandu, Kamala,\nHridroga",
+    "dose": "250 mg",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "T"
+  },
+  {
+    "name_of_medicine": "Saptamrita Lauha",
+    "reference_text": "AFI",
+    "dispensing_pack_size": "5 gm",
+    "main_indications": "Timira, Drishtimandya",
+    "dose": "250 mg",
+    "precaution/_contraindication": "NS",
+    "preferred_use_(opd/_ipd)": "Both",
+    "class": "T"
+  }
+]
