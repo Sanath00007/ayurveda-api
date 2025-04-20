@@ -263,7 +263,7 @@
     "name_of_medicine": "Arka  Yavani/Arka\nAjvayana",
     "reference_text": "AFI",
     "dispensing_pack_size": "50 ml",
-    "main_indications": "Trikshula, Agnimandya,\nAnaha,",
+    "main_indications": "Trikshula, Agnimandya,\nullaha,",
     "dose": "10 -  25 ml",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
@@ -325,7 +325,7 @@
     "dispensing_pack_size": "100\ngm",
     "main_indications": "Pinasa, Kasa, Shvasa,",
     "dose": "10 - 50 gm",
-    "precaution/_contraindication": "Pregnancy, Pitta Prakriti, Paittika\nRoga",
+    "precaution/_contraindication": "Pregnullcy, Pitta Prakriti, Paittika\nRoga",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "C"
   },
@@ -435,7 +435,7 @@
     "dispensing_pack_size": "100\ngm",
     "main_indications": "Kasa , Shvasa, Jvara,\nParshvashula",
     "dose": "6-12 gm",
-    "precaution/_contraindication": "Pregnancy",
+    "precaution/_contraindication": "Pregnullcy",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "C"
   },
@@ -445,7 +445,7 @@
     "dispensing_pack_size": "100\ngm",
     "main_indications": "Kasa, Shvasa,\nSvarakshaya, Pratishyaya, Pinasa",
     "dose": "6-12 gm",
-    "precaution/_contraindication": "Pregnancy",
+    "precaution/_contraindication": "Pregnullcy",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "C"
   },
@@ -605,7 +605,7 @@
     "dispensing_pack_size": "10 gm",
     "main_indications": "Vata Rakta,\nDushtavrana, Charma Vikara",
     "dose": "500 mg - 1\ngm",
-    "precaution/_contraindication": "Long term\nuse in pregnancy",
+    "precaution/_contraindication": "Long term\nuse in pregnullcy",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "E"
   },
@@ -615,7 +615,7 @@
     "dispensing_pack_size": "10 gm",
     "main_indications": "Prameha, Mutrakricchra, Mutraghata, Ashmari,\nPradara",
     "dose": "500 mg  - 1\ngm",
-    "precaution/_contraindication": "Long term use in pregnancy",
+    "precaution/_contraindication": "Long term use in pregnullcy",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "E"
   },
@@ -625,7 +625,7 @@
     "dispensing_pack_size": "10 gm",
     "main_indications": "Galaganda, Gandamala, Apachi, Arbuda, Granthi",
     "dose": "500 mg  - 1\ngm",
-    "precaution/_contraindication": "Long term\nuse in pregnancy",
+    "precaution/_contraindication": "Long term\nuse in pregnullcy",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "E"
   },
@@ -635,7 +635,7 @@
     "dispensing_pack_size": "10 gm",
     "main_indications": "Vatashonita, Pramehapidika, Vrana,\nKustha",
     "dose": "Up - 3 gm",
-    "precaution/_contraindication": "Long term use in\npregnancy",
+    "precaution/_contraindication": "Long term use in\npregnullcy",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "E"
   },
@@ -645,7 +645,7 @@
     "dispensing_pack_size": "10 gm",
     "main_indications": "Asthibhagna, Asthichyuti, Asthiruja",
     "dose": "Up - 3 gm",
-    "precaution/_contraindication": "Long term\nuse in pregnancy",
+    "precaution/_contraindication": "Long term\nuse in pregnullcy",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "E"
   },
@@ -655,7 +655,7 @@
     "dispensing_pack_size": "10 gm",
     "main_indications": "Sthaulya, Sandhigata Vata",
     "dose": "500 mg  - 1 gm",
-    "precaution/_contraindication": "Long term use in\npregnancy",
+    "precaution/_contraindication": "Long term use in\npregnullcy",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "E"
   },
@@ -665,7 +665,7 @@
     "dispensing_pack_size": "10 gm",
     "main_indications": "Gridhrasi, Amavata",
     "dose": "500 mg  - 1 gm",
-    "precaution/_contraindication": "Long term use in\npregnancy",
+    "precaution/_contraindication": "Long term use in\npregnullcy",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "E"
   },
@@ -675,7 +675,7 @@
     "dispensing_pack_size": "10 gm",
     "main_indications": "Amavata, Vatarakta, Sandhi Shula,\nAgnimandya",
     "dose": "Up to 3 gm in divided doses",
-    "precaution/_contraindication": "Pregnancy",
+    "precaution/_contraindication": "Pregnullcy",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "E"
   },
@@ -685,7 +685,7 @@
     "dispensing_pack_size": "10 gm",
     "main_indications": "Parshvashula,Kasa\nShvasa, Hritshula",
     "dose": "Up to 3 gm in divided\ndoses",
-    "precaution/_contraindication": "Pregnancy",
+    "precaution/_contraindication": "Pregnullcy",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "E"
   },
@@ -695,7 +695,7 @@
     "dispensing_pack_size": "10 gm",
     "main_indications": "Bhagandara, Arsha, Nadi Vrana, Gulma, Shotha",
     "dose": "Up to 3 gm in divided doses",
-    "precaution/_contraindication": "Pregnancy Chronic or recurrent\ndiarrhoea",
+    "precaution/_contraindication": "Pregnullcy Chronic or recurrent\ndiarrhoea",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "E"
   },
@@ -705,7 +705,7 @@
     "dispensing_pack_size": "10 gm",
     "main_indications": "Gridhrasi,\nSandhigraha, Katigraha",
     "dose": "Up to 3 gm in\ndivided doses",
-    "precaution/_contraindication": "Pregnancy",
+    "precaution/_contraindication": "Pregnullcy",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "E"
   },
@@ -715,7 +715,7 @@
     "dispensing_pack_size": "10 gm",
     "main_indications": "Vatarakta, Vriddhiroga, Gridhrasi,Vastigatas\nhula, Amavata",
     "dose": "Up to 3 gm in divided doses",
-    "precaution/_contraindication": "Pregnancy",
+    "precaution/_contraindication": "Pregnullcy",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "E"
   },
@@ -725,7 +725,7 @@
     "dispensing_pack_size": "10 gm",
     "main_indications": "Amavata, Agnimandya, Sandhigatavata",
     "dose": "Up to 3 gm in divided doses",
-    "precaution/_contraindication": "Pregnancy",
+    "precaution/_contraindication": "Pregnullcy",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "E"
   },
@@ -866,7 +866,7 @@
     "main_indications": "Shula, Gridhrasi,\nAmvata",
     "dose": "3-6 gm",
     "precaution/_contraindication": "NS",
-    "preferred_use_(opd/_ipd)": NaN,
+    "preferred_use_(opd/_ipd)": null,
     "class": "G"
   },
   {
@@ -876,7 +876,7 @@
     "main_indications": "Amlapitta,\nVidagdhajirna",
     "dose": "3-6 gm",
     "precaution/_contraindication": "NS",
-    "preferred_use_(opd/_ipd)": NaN,
+    "preferred_use_(opd/_ipd)": null,
     "class": "G"
   },
   {
@@ -886,7 +886,7 @@
     "main_indications": "Jvara, Atisara, Bala\nShosha",
     "dose": "250 - 500 mg",
     "precaution/_contraindication": "NS",
-    "preferred_use_(opd/_ipd)": NaN,
+    "preferred_use_(opd/_ipd)": null,
     "class": "G"
   },
   {
@@ -896,7 +896,7 @@
     "main_indications": "Shotha,Shula Yukta\nBradhna",
     "dose": "3-6 gm",
     "precaution/_contraindication": "NS",
-    "preferred_use_(opd/_ipd)": NaN,
+    "preferred_use_(opd/_ipd)": null,
     "class": "G"
   },
   {
@@ -906,7 +906,7 @@
     "main_indications": "Grahaniroga, Atisara,\nAruchi",
     "dose": "3-6 gm",
     "precaution/_contraindication": "NS",
-    "preferred_use_(opd/_ipd)": NaN,
+    "preferred_use_(opd/_ipd)": null,
     "class": "G"
   },
   {
@@ -916,7 +916,7 @@
     "main_indications": "Mukha Roga, Danta\nRoga",
     "dose": "Use as tooth powder",
     "precaution/_contraindication": "NS",
-    "preferred_use_(opd/_ipd)": NaN,
+    "preferred_use_(opd/_ipd)": null,
     "class": "G"
   },
   {
@@ -926,7 +926,7 @@
     "main_indications": "Kasa, Shvasa",
     "dose": "2 -4 gm",
     "precaution/_contraindication": "NS",
-    "preferred_use_(opd/_ipd)": NaN,
+    "preferred_use_(opd/_ipd)": null,
     "class": "G"
   },
   {
@@ -936,7 +936,7 @@
     "main_indications": "Agnimandya, Shula,\nGulma,Vataroga",
     "dose": "2- 4 gm",
     "precaution/_contraindication": "NS",
-    "preferred_use_(opd/_ipd)": NaN,
+    "preferred_use_(opd/_ipd)": null,
     "class": "G"
   },
   {
@@ -946,7 +946,7 @@
     "main_indications": "Agnimandya, Gulma, Ajirna, Grahaniroga, Vatakaphajaroga,",
     "dose": "3-6 gm",
     "precaution/_contraindication": "Shotha, Jalodara, hyperten sion, long\nterm use",
-    "preferred_use_(opd/_ipd)": NaN,
+    "preferred_use_(opd/_ipd)": null,
     "class": "G"
   },
   {
@@ -956,7 +956,7 @@
     "main_indications": "Prameha, Madhumeha",
     "dose": "3-6 gm",
     "precaution/_contraindication": "NS",
-    "preferred_use_(opd/_ipd)": NaN,
+    "preferred_use_(opd/_ipd)": null,
     "class": "G"
   },
   {
@@ -966,7 +966,7 @@
     "main_indications": "Raktapradara,\nShwetapradara, Raktarsha",
     "dose": "2-3 gm",
     "precaution/_contraindication": "NS",
-    "preferred_use_(opd/_ipd)": NaN,
+    "preferred_use_(opd/_ipd)": null,
     "class": "G"
   },
   {
@@ -976,7 +976,7 @@
     "main_indications": "Kshudrakushtha, Mahakushtha,\nRaktadushti",
     "dose": "3- 5 gm",
     "precaution/_contraindication": "NS",
-    "preferred_use_(opd/_ipd)": NaN,
+    "preferred_use_(opd/_ipd)": null,
     "class": "G"
   },
   {
@@ -986,7 +986,7 @@
     "main_indications": "Shvasa, Kasa, Kshaya,\nUrdhvaga  Raktapitta",
     "dose": "2-3gm",
     "precaution/_contraindication": "NS",
-    "preferred_use_(opd/_ipd)": NaN,
+    "preferred_use_(opd/_ipd)": null,
     "class": "G"
   },
   {
@@ -996,7 +996,7 @@
     "main_indications": "Kasa, Shvasa,\nPratishyaya, Jvara",
     "dose": "2-4 gm",
     "precaution/_contraindication": "NS",
-    "preferred_use_(opd/_ipd)": NaN,
+    "preferred_use_(opd/_ipd)": null,
     "class": "G"
   },
   {
@@ -1005,8 +1005,8 @@
     "dispensing_pack_size": "25 gm",
     "main_indications": "Arochaka, Ama, Agnimandya",
     "dose": "1-2 gm",
-    "precaution/_contraindication": "Paittika Vikara or Prakriti, Raktaj Roga, pregnancy\n, long\nterm use",
-    "preferred_use_(opd/_ipd)": NaN,
+    "precaution/_contraindication": "Paittika Vikara or Prakriti, Raktaj Roga, pregnullcy\n, long\nterm use",
+    "preferred_use_(opd/_ipd)": null,
     "class": "G"
   },
   {
@@ -1016,7 +1016,7 @@
     "main_indications": "Anaha, Prameha,\nNetraroga",
     "dose": "3-6 gm",
     "precaution/_contraindication": "Dehydra\n-tion",
-    "preferred_use_(opd/_ipd)": NaN,
+    "preferred_use_(opd/_ipd)": null,
     "class": "G"
   },
   {
@@ -1026,7 +1026,7 @@
     "main_indications": "Atisara, Pravahika, Vatashlaismika Pratishyaya",
     "dose": "1-3 gm",
     "precaution/_contraindication": "Infantile, diarrhea, long term\nuse",
-    "preferred_use_(opd/_ipd)": NaN,
+    "preferred_use_(opd/_ipd)": null,
     "class": "G"
   },
   {
@@ -1085,7 +1085,7 @@
     "dispensing_pack_size": "50 gm",
     "main_indications": "Vibandha, Udararoga",
     "dose": "3-6 gm",
-    "precaution/_contraindication": "Debility, pregnancy, dehydration\n, Paittika Roga,",
+    "precaution/_contraindication": "Debility, pregnullcy, dehydration\n, Paittika Roga,",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "H"
   },
@@ -1183,7 +1183,7 @@
     "name_of_medicine": "Apamargkshara\nTaila",
     "reference_text": "AFI",
     "dispensing_pack_size": "10 ml",
-    "main_indications": "Badhirya, Karnanada,\nKarnagutha",
+    "main_indications": "Badhirya, Karnullada,\nKarnagutha",
     "dose": "2-5 drops in each ear",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
@@ -1235,7 +1235,7 @@
     "dispensing_pack_size": "50 ml",
     "main_indications": "Vatavikara,Gridhrasi, Vibandha, Katishula",
     "dose": "10-30 ml",
-    "precaution/_contraindication": "Peri- conceptio n period, long term use in\npregnancy",
+    "precaution/_contraindication": "Peri- conceptio n period, long term use in\npregnullcy",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "I"
   },
@@ -1283,7 +1283,7 @@
     "name_of_medicine": "Kottamachukkadi\nTaila",
     "reference_text": "AFI",
     "dispensing_pack_size": "50 ml",
-    "main_indications": "Vataroga, Amavata,\nAngasthambha",
+    "main_indications": "Vataroga, Amavata,\nullgasthambha",
     "dose": "For Abhyanga",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
@@ -1334,7 +1334,7 @@
     "reference_text": "AFI",
     "dispensing_pack_size": "50 ml",
     "main_indications": "Vataroga, Pakshaghata,\nArdita, Vandhyatva",
-    "dose": "For Abhyanga, Nasya,\nAnuvasana Vasti",
+    "dose": "For Abhyanga, Nasya,\nulluvasana Vasti",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "I"
@@ -1353,7 +1353,7 @@
     "name_of_medicine": "Murivenna Tail",
     "reference_text": "SY",
     "dispensing_pack_size": "50 ml",
-    "main_indications": "Abhighataja Vedana\nand Vata Vikara",
+    "main_indications": "Abhighataja Vedana\nulld Vata Vikara",
     "dose": "For Abhyanga",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
@@ -1364,7 +1364,7 @@
     "reference_text": "AFI",
     "dispensing_pack_size": "50 ml",
     "main_indications": "Vataroga, Pangu, Shirogatavata, Manyastambha,\nHanustambha",
-    "dose": "Internal  use: 6 gm External use: f Nasya, Abhyanga and\nAnuvasana Vasti",
+    "dose": "Internal  use: 6 gm External use: f Nasya, Abhyanga and\nulluvasana Vasti",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "I"
@@ -1555,7 +1555,7 @@
     "dispensing_pack_size": "5 gm",
     "main_indications": "Agnimandya, Amadosha, Grahaniroga",
     "dose": "250-500 mg",
-    "precaution/_contraindication": "Pregnancy, Uterine bleeding, Pitta Prakriti, Raktpittaj Roga, long\nterm use",
+    "precaution/_contraindication": "Pregnullcy, Uterine bleeding, Pitta Prakriti, Raktpittaj Roga, long\nterm use",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "L"
   },
@@ -1645,7 +1645,7 @@
     "dispensing_pack_size": "5 gm",
     "main_indications": "Rajorodha, Kastartava",
     "dose": "250 mg",
-    "precaution/_contraindication": "Pregnancy, lactation, excessive Uterine Bleeding, kidney disease, discontinue in case of severe abdominal\npain",
+    "precaution/_contraindication": "Pregnullcy, lactation, excessive Uterine Bleeding, kidney disease, discontinue in case of severe abdominal\npain",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "L"
   },
@@ -1675,7 +1675,7 @@
     "dispensing_pack_size": "5 gm",
     "main_indications": "Mandagni, Ajirna, Gulma, Visuchika, Sarpadamsha",
     "dose": "125 mg",
-    "precaution/_contraindication": "Pitta Prakriti individuals, hyper sensitivity to Bhallataka, patients having history of Raktapittaja Vikara,\npregnancy, cardiac arrhythmia,\nlong term use",
+    "precaution/_contraindication": "Pitta Prakriti individuals, hyper sensitivity to Bhallataka, patients having history of Raktapittaja Vikara,\npregnullcy, cardiac arrhythmia,\nlong term use",
     "preferred_use_(opd/_ipd)": "Both\n-",
     "class": "L"
   },
@@ -1715,7 +1715,7 @@
     "dispensing_pack_size": "5 gm",
     "main_indications": "Grahani, Atisara, Agnimandya, Kshaya",
     "dose": "125- 250 mg",
-    "precaution/_contraindication": "Peri- concepti onal period, pregnanc y, lactation period, kidney disease, small\nchildren",
+    "precaution/_contraindication": "Peri- concepti onal period, pregnullc y, lactation period, kidney disease, small\nchildren",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "O"
   },
@@ -1855,7 +1855,7 @@
     "dispensing_pack_size": "5 gm",
     "main_indications": "Kushta, Medoroga,\nJvara",
     "dose": "250-500 mg",
-    "precaution/_contraindication": "Old age,\nPaediatric age group, periconc eptional period, pregnancy, lactation period, kidney\ndisease, karshaya",
+    "precaution/_contraindication": "Old age,\nPaediatric age group, periconc eptional period, pregnullcy, lactation period, kidney\ndisease, karshaya",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "S"
   },
@@ -1915,7 +1915,7 @@
     "dispensing_pack_size": "5 gm",
     "main_indications": "Pittaja Shirahshula, Ardhavbhedaka, Suryavarta, Daha, Urdhvaga raktapitta",
     "dose": "250-500mg",
-    "precaution/_contraindication": "Long term use, pregnancy lactation period, paediatric age\ngroup",
+    "precaution/_contraindication": "Long term use, pregnullcy lactation period, paediatric age\ngroup",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "S"
   },
@@ -1925,7 +1925,7 @@
     "dispensing_pack_size": "2 gm",
     "main_indications": "Hridya , Balya, Shulahara",
     "dose": "625-125 mg",
-    "precaution/_contraindication": "Long term use, hyperten sion,\npregnancy",
+    "precaution/_contraindication": "Long term use, hyperten sion,\npregnullcy",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "S"
   },
@@ -1935,7 +1935,7 @@
     "dispensing_pack_size": "5 gm",
     "main_indications": "Grahani, Atisara, Amajirna, Visuchika, Shula",
     "dose": "250-500 mg in divided doses",
-    "precaution/_contraindication": "Kidney disease, bradycar- dia, arrhy- thmia, hypotens ion,  long term use, peri- concepti onal period period,\npregnancy, lactating mothers and debilitate\npatients",
+    "precaution/_contraindication": "Kidney disease, bradycar- dia, arrhy- thmia, hypotens ion,  long term use, peri- concepti onal period period,\npregnullcy, lactating mothers and debilitate\npatients",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "S"
   },
@@ -1945,7 +1945,7 @@
     "dispensing_pack_size": "5 gm",
     "main_indications": "Shirahshula, Shiroroga",
     "dose": "250-500 mg\nin single or divided dose",
-    "precaution/_contraindication": "Kidney disease, long term use, peri- concepti onal period, pregnancy, lactating mothers, debilitay ed\npatients",
+    "precaution/_contraindication": "Kidney disease, long term use, peri- concepti onal period, pregnullcy, lactating mothers, debilitay ed\npatients",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "S"
   },
@@ -1955,7 +1955,7 @@
     "dispensing_pack_size": "5 gm",
     "main_indications": "Kasa, Shvasa, Vatakaphaja Roga",
     "dose": "125-250 mg",
-    "precaution/_contraindication": "Kidney disease, bradycar dia, arrhy- thmia, hypotens ion,  long term adm- inist ration, periconc eptional period, pregnancy, lactating mothers, debilitate\npatients",
+    "precaution/_contraindication": "Kidney disease, bradycar dia, arrhy- thmia, hypotens ion,  long term adm- inist ration, periconc eptional period, pregnullcy, lactating mothers, debilitate\npatients",
     "preferred_use_(opd/_ipd)": "IPD",
     "class": "S"
   },
@@ -1975,7 +1975,7 @@
     "dispensing_pack_size": "5 gm",
     "main_indications": "Jvara, Pratishyaya, Kasa",
     "dose": "125-250 mg",
-    "precaution/_contraindication": "Bradycar dia, arrhythm ias, small children, Vrikka Roga, long term administ ration, periconc eptional period,\npregnancy, debilitate patients",
+    "precaution/_contraindication": "Bradycar dia, arrhythm ias, small children, Vrikka Roga, long term administ ration, periconc eptional period,\npregnullcy, debilitate patients",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "S"
   },
@@ -1985,7 +1985,7 @@
     "dispensing_pack_size": "5 gm",
     "main_indications": "Vata Roga, Avabahuka, Urustambha, Pakshaghata,Gridhrasi",
     "dose": "250 mg",
-    "precaution/_contraindication": "Long term use, Vrikka Roga, peri- concepti onal period, pregnancy, lactation and\ndebilitate patients",
+    "precaution/_contraindication": "Long term use, Vrikka Roga, peri- concepti onal period, pregnullcy, lactation and\ndebilitate patients",
     "preferred_use_(opd/_ipd)": "IPD",
     "class": "S"
   },
