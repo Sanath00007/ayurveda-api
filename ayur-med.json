@@ -40,7 +40,8 @@
     "dose": "12 - 24 ml",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "A"
+    "class": "A",
+    "images":  "images/Aravindasava .jpg"
   },
   {
     "name_of_medicine": "Arjunarishta/ Parthadyarishta",
@@ -50,7 +51,8 @@
     "dose": "12 - 24 ml",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "A"
+    "class": "A",
+    "image": "images/Arjunarishta.jpg"
   },
   {
     "name_of_medicine": "Ashokarishta",
@@ -60,7 +62,8 @@
     "dose": "12 - 24 ml",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "A"
+    "class": "A",
+    "image":"images/ Ashokarishta.jpg"
   },
   {
     "name_of_medicine": "Ashvagandharisht\na",
@@ -70,7 +73,8 @@
     "dose": "12 - 24 ml",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "A"
+    "class": "A",
+    "image":"images/Ashvagandharisht.jpg"
   },
   {
     "name_of_medicine": "Balarishta",
@@ -80,7 +84,8 @@
     "dose": "12 - 24 ml",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "A"
+    "class": "A",
+    "image":"images/Balarishta.jpg"
   },
   {
     "name_of_medicine": "Chandanasava",
@@ -90,7 +95,8 @@
     "dose": "12 - 24 ml",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "A"
+    "class": "A",
+    "image":"images/Chandanasava.jpg"
   },
   {
     "name_of_medicine": "Dashamularishta",
