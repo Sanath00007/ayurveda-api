@@ -7,7 +7,8 @@
     "dose": "12 - 24 ml",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "A"
+    "class": "A",
+    "image": "images/Abhayarishta.jpg" 
   },
   {
     "name_of_medicine": "Amritarishta",
