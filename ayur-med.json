@@ -8,7 +8,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "A",
-    "image": "images/Abhayarishta.jpg" 
+    "images": "images/Abhayarishta.jpg" 
   },
   {
     "name_of_medicine": "Amritarishta",
@@ -19,7 +19,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "A",
-    "image": "images/Amritarishta.jpg" 
+    "images": "images/Amritarishta.jpg" 
   },
   {
     "name_of_medicine": "Aragvadharishta",
@@ -63,7 +63,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "A",
-    "image":"images/ Ashokarishta.jpg"
+    "images":"images/ Ashokarishta.jpg"
   },
   {
     "name_of_medicine": "Ashvagandharisht\na",
@@ -96,7 +96,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "A",
-    "image":"images/Chandanasava.jpg"
+    "images":"images/Chandanasava.jpg"
   },
   {
     "name_of_medicine": "Dashamularishta",
@@ -118,7 +118,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "A",
-    "image":"images/Drakshasava.jpg"
+    "images":"images/Drakshasava.jpg"
   },
   {
     "name_of_medicine": "Draksharishta",
@@ -128,7 +128,8 @@
     "dose": "12 - 24 ml",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "A"
+    "class": "A",
+     "image":"images/Draksharishta.jpg"
   },
   {
     "name_of_medicine": "Jirakadyarishta",
@@ -138,7 +139,8 @@
     "dose": "12 - 24 ml",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "A"
+    "class": "A",
+     "images":"images/Jirakadyarishta.jpg"
   },
   {
     "name_of_medicine": "Kanakasava",
@@ -148,7 +150,8 @@
     "dose": "12 - 24 ml",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "A"
+    "class": "A",
+     "images":"images/Kanakasava .jpg"
   },
   {
     "name_of_medicine": "Kumaryasava",
@@ -158,7 +161,8 @@
     "dose": "12 - 24 ml",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "A"
+    "class": "A",
+     "image":""
   },
   {
     "name_of_medicine": "Kutajarishta",
@@ -168,7 +172,8 @@
     "dose": "12 - 24 ml",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "A"
+    "class": "A",
+     "images":""
   },
   {
     "name_of_medicine": "Khadirarishta",
@@ -178,7 +183,8 @@
     "dose": "12 - 24 ml",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "A"
+    "class": "A",
+     "images":""
   },
   {
     "name_of_medicine": "Lodhrasava/Rodh\nrasava",
