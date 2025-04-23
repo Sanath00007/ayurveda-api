@@ -30,7 +30,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "A",
-    "image": "images/Aragwadharishta.png"
+    "images": "images/Aragwadharishta.png"
   },
   {
     "name_of_medicine": "Aravindasava",
@@ -52,7 +52,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "A",
-    "image": "images/Arjunarishta.jpg"
+    "images": "images/Arjunarishta.jpg"
   },
   {
     "name_of_medicine": "Ashokarishta",
@@ -74,7 +74,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "A",
-    "image":"images/Ashvagandharisht.jpg"
+    "images":"images/Ashvagandharisht.jpg"
   },
   {
     "name_of_medicine": "Balarishta",
@@ -85,7 +85,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "A",
-    "image":"images/Balarishta.jpg"
+    "images":"images/Balarishta.jpg"
   },
   {
     "name_of_medicine": "Chandanasava",
@@ -107,7 +107,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "A",
-    "image":"images/Dashamularishta.jpg"
+    "images":"images/Dashamularishta.jpg"
   },
   {
     "name_of_medicine": "Drakshasava",
@@ -129,7 +129,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "A",
-     "image":"images/Draksharishta.jpg"
+     "images":"images/Draksharishta.jpg"
   },
   {
     "name_of_medicine": "Jirakadyarishta",
@@ -162,7 +162,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "A",
-     "image":""
+     "images":""
   },
   {
     "name_of_medicine": "Kutajarishta",
@@ -194,7 +194,9 @@
     "dose": "12 - 24 ml",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "A"
+    "class": "A",
+"images":""
+
   },
   {
     "name_of_medicine": "Lohasava",
@@ -204,7 +206,8 @@
     "dose": "12 - 24 ml",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "A"
+    "class": "A",
+"images":""
   },
   {
     "name_of_medicine": "Mustakarishta",
@@ -214,7 +217,8 @@
     "dose": "12 - 24 ml",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "A"
+    "class": "A",
+"images":""
   },
   {
     "name_of_medicine": "Pippalyadyasava",
@@ -224,7 +228,8 @@
     "dose": "12   -   24   ml",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "A"
+    "class": "A",
+"images":""
   },
   {
     "name_of_medicine": "Rohitakarishta",
@@ -234,7 +239,9 @@
     "dose": "12   -   24   ml",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "A"
+    "class": "A",
+"images":""
+
   },
   {
     "name_of_medicine": "Sarasvatarishta",
@@ -244,7 +251,8 @@
     "dose": "12   -   24   ml",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "A"
+    "class": "A",
+"images":""
   },
   {
     "name_of_medicine": "Ushirasava",
@@ -254,7 +262,8 @@
     "dose": "12   -   24   ml",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "A"
+    "class": "A",
+"images":""
   },
   {
     "name_of_medicine": "Vasakasava",
@@ -264,7 +273,8 @@
     "dose": "12   -   24   ml",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "A"
+    "class": "A",
+"images":""
   },
   {
     "name_of_medicine": "Punarnavasava",
@@ -274,7 +284,8 @@
     "dose": "12   -   24   ml",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "A"
+    "class": "A",
+"images":""
   },
   {
     "name_of_medicine": "Arka  Yavani/Arka\nAjvayana",
@@ -284,7 +295,8 @@
     "dose": "10 -  25 ml",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "B"
+    "class": "B",
+"images":""
   },
   {
     "name_of_medicine": "Arka Shatpushpa/\nMishr eyarka",
@@ -294,7 +306,8 @@
     "dose": "10 -  25 ml",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "B"
+    "class": "B",
+"images":""
   },
   {
     "name_of_medicine": "Arka Pudina",
@@ -304,7 +317,8 @@
     "dose": "10 -  25 ml",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "B"
+    "class": "B",
+"images":""
   },
   {
     "name_of_medicine": "Agastya Haritaki\n/ Agastya Rasayana",
@@ -314,7 +328,8 @@
     "dose": "5 -   15 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "C"
+    "class": "C",
+"images":""
   },
   {
     "name_of_medicine": "Bilvadi Leha",
@@ -324,7 +339,8 @@
     "dose": "10 - 50 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "C"
+    "class": "C",
+"images":""
   },
   {
     "name_of_medicine": "Brahama Rasayana",
@@ -334,7 +350,8 @@
     "dose": "10-15 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "C"
+    "class": "C",
+"images":""
   },
   {
     "name_of_medicine": "Chitraka Haritaki",
@@ -344,7 +361,8 @@
     "dose": "10 - 50 gm",
     "precaution/_contraindication": "Pregnullcy, Pitta Prakriti, Paittika\nRoga",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "C"
+    "class": "C",
+"images":""
   },
   {
     "name_of_medicine": "Chyavanprash\nAvaleha",
@@ -354,7 +372,8 @@
     "dose": "12-24 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "C"
+    "class": "C",
+"images":""
   },
   {
     "name_of_medicine": "Drakshavaleha",
@@ -364,7 +383,8 @@
     "dose": "6-12 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "C"
+    "class": "C",
+"images":""
   },
   {
     "name_of_medicine": "Haridrakhanda\nPaka",
@@ -374,7 +394,8 @@
     "dose": "6 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "C"
+    "class": "C",
+"images":""
   },
   {
     "name_of_medicine": "Kutajavaleha",
@@ -384,7 +405,8 @@
     "dose": "6 -12 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "C"
+    "class": "C",
+"images":""
   },
   {
     "name_of_medicine": "Kalyanak Guda",
@@ -394,7 +416,8 @@
     "dose": "6-12 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "C"
+    "class": "C",
+"images":""
   },
   {
     "name_of_medicine": "Kantakaryavaleha",
@@ -404,7 +427,8 @@
     "dose": "6-12 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "C"
+    "class": "C",
+"images":""
   },
   {
     "name_of_medicine": "Kushmandaka Rasayana",
@@ -414,7 +438,8 @@
     "dose": "6-12 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "C"
+    "class": "C",
+"images":""
   },
   {
     "name_of_medicine": "Puga Khanda/ Supari Paka",
@@ -424,7 +449,8 @@
     "dose": "6-12 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "C"
+    "class": "C",
+"images":""
   },
   {
     "name_of_medicine": "Saubhagyashunthi Paka",
@@ -434,7 +460,8 @@
     "dose": "10-50 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "C"
+    "class": "C",
+"images":""
   },
   {
     "name_of_medicine": "Shatavariguda",
@@ -444,7 +471,8 @@
     "dose": "6 -12 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "C"
+    "class": "C",
+"images":""
   },
   {
     "name_of_medicine": "Vasavaleha",
@@ -454,7 +482,8 @@
     "dose": "6-12 gm",
     "precaution/_contraindication": "Pregnullcy",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "C"
+    "class": "C",
+"images":""
   },
   {
     "name_of_medicine": "Vyaghri Haritaki",
@@ -464,7 +493,8 @@
     "dose": "6-12 gm",
     "precaution/_contraindication": "Pregnullcy",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "C"
+    "class": "C",
+"images":""
   },
   {
     "name_of_medicine": "Punarnavadi Kashayam",
@@ -474,7 +504,8 @@
     "dose": "6-12 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "D"
+    "class": "D",
+"images":""
   },
   {
     "name_of_medicine": "Vyaghryadi Kashayam",
@@ -484,7 +515,8 @@
     "dose": "6-12 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "D"
+    "class": "D",
+"images":""
   },
   {
     "name_of_medicine": "Dashamula Kvatha Churna",
@@ -494,7 +526,8 @@
     "dose": "25-50 ml",
     "precaution/_contraindication": "Rasaksh aya, Bahumu\ntrata",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "D"
+    "class": "D",
+"images":""
   },
   {
     "name_of_medicine": "Dashmula Katutraya\nKvatha Churna",
@@ -504,7 +537,8 @@
     "dose": "25-50 ml",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "D"
+    "class": "D",
+"images":""
   },
   {
     "name_of_medicine": "Dhanyapanchaka\nKashaya Churna",
@@ -514,7 +548,8 @@
     "dose": "25-50 ml",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "D"
+    "class": "D",
+"images":""
   },
   {
     "name_of_medicine": "Guduchyadi Kashaya\nChurna",
@@ -524,7 +559,8 @@
     "dose": "25-50 ml",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "D"
+    "class": "D",
+"images":""
   },
   {
     "name_of_medicine": "Indukantam\nKashayam Churna",
@@ -534,7 +570,8 @@
     "dose": "25-50 ml",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "D"
+    "class": "D",
+"images":""
   },
   {
     "name_of_medicine": "Pancha-valkala Kashaya Churna",
@@ -544,7 +581,8 @@
     "dose": "100 ml Kvatha for washing wound/\nvaginal douche",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "D"
+    "class": "D",
+"images":""
   },
   {
     "name_of_medicine": "Pathyadi Kvatha(Shadanga) Churna",
@@ -554,7 +592,8 @@
     "dose": "25-50 ml",
     "precaution/_contraindication": "Chhardi, Atisara, Ativirechanajanya Rasakshaya, Vataprakopa",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "D"
+    "class": "D",
+"images":""
   },
   {
     "name_of_medicine": "Phalatrikadi Kvatha Churna",
