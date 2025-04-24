@@ -162,7 +162,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "A",
-     "images":""
+     "images":"images/Kumaryasava.jpg"
   },
   {
     "name_of_medicine": "Kutajarishta",
@@ -173,7 +173,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "A",
-     "images":""
+     "images":"images/Kutajarishta.jpg"
   },
   {
     "name_of_medicine": "Khadirarishta",
@@ -184,7 +184,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "A",
-     "images":""
+     "images":"images/Khadirarishta.jpg"
   },
   {
     "name_of_medicine": "Lodhrasava/Rodh\nrasava",
@@ -195,7 +195,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "A",
-"images":""
+    "images":"images/Lodhrasava.jpg"
 
   },
   {
@@ -207,7 +207,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "A",
-"images":""
+    "images":"images/Lohasava.jpg"
   },
   {
     "name_of_medicine": "Mustakarishta",
@@ -218,7 +218,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "A",
-"images":""
+    "images":"images/Mustakarishta.jpg"
   },
   {
     "name_of_medicine": "Pippalyadyasava",
@@ -229,7 +229,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "A",
-"images":""
+    "images":"images/Pippalyadyasava.jpg"
   },
   {
     "name_of_medicine": "Rohitakarishta",
@@ -240,7 +240,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "A",
-"images":""
+    "images":"images/Rohitakarishta.jpg"
 
   },
   {
@@ -252,7 +252,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "A",
-"images":""
+    "images":"images/Sarasvatarishta.jpg"
   },
   {
     "name_of_medicine": "Ushirasava",
@@ -263,7 +263,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "A",
-"images":""
+    "images":"images/Ushirasava.jpg"
   },
   {
     "name_of_medicine": "Vasakasava",
@@ -274,7 +274,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "A",
-"images":""
+    "images":"images/Vasakasava.jpg"
   },
   {
     "name_of_medicine": "Punarnavasava",
@@ -285,7 +285,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "A",
-"images":""
+    "images":"images/Punarnavasava.jpg"
   },
   {
     "name_of_medicine": "Arka  Yavani/Arka\nAjvayana",
@@ -318,7 +318,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "B",
-"images":""
+    "images":"images/Arka Pudina.jpg"
   },
   {
     "name_of_medicine": "Agastya Haritaki\n/ Agastya Rasayana",
@@ -351,7 +351,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "C",
-"images":""
+    "images":"images/Brahama Rasayana.jpg"
   },
   {
     "name_of_medicine": "Chitraka Haritaki",
@@ -362,7 +362,7 @@
     "precaution/_contraindication": "Pregnullcy, Pitta Prakriti, Paittika\nRoga",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "C",
-"images":""
+    "images":"images/Chitraka Haritaki.jpg"
   },
   {
     "name_of_medicine": "Chyavanprash\nAvaleha",
@@ -373,7 +373,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "C",
-"images":""
+    "images":"images/Chyavanprash.jpg"
   },
   {
     "name_of_medicine": "Drakshavaleha",
@@ -384,7 +384,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "C",
-"images":""
+    "images":"images/Drakshavaleha.jpg"
   },
   {
     "name_of_medicine": "Haridrakhanda\nPaka",
@@ -395,7 +395,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "C",
-"images":""
+    "images":"images/Haridrakhanda.jpg"
   },
   {
     "name_of_medicine": "Kutajavaleha",
@@ -406,7 +406,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "C",
-"images":""
+    "images":"images/Kutajavaleha.jpg"
   },
   {
     "name_of_medicine": "Kalyanak Guda",
@@ -461,7 +461,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "C",
-"images":""
+    "images":"images/Saubhagyashunthi Paka.jpg"
   },
   {
     "name_of_medicine": "Shatavariguda",
@@ -483,7 +483,7 @@
     "precaution/_contraindication": "Pregnullcy",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "C",
-"images":""
+    "images":"images/Vasavaleha.jpg"
   },
   {
     "name_of_medicine": "Vyaghri Haritaki",
@@ -494,7 +494,7 @@
     "precaution/_contraindication": "Pregnullcy",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "C",
-"images":""
+    "images":"images/Vyaghri Haritaki.jpg"
   },
   {
     "name_of_medicine": "Punarnavadi Kashayam",
