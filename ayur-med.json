@@ -614,7 +614,8 @@
     "dose": "25-50 ml",
     "precaution/_contraindication": "Concom itant use of Eranda Taila in\nGarbhini",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "D"
+    "class": "D",
+    "images":"images/Rasnasaptaka Kashaya Churna.jpg"
   },
   {
     "name_of_medicine": "Shadanga Kvatha Churna",
@@ -624,7 +625,8 @@
     "dose": "25-50 ml",
     "precaution/_contraindication": "Nausea\ndue to bitterness",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "D"
+    "class": "D",
+    "images":"images/Shadanga Kvatha Churna.jpg"
   },
   {
     "name_of_medicine": "Trinapanchamula\nKvatha Churna",
@@ -634,7 +636,8 @@
     "dose": "25-50 ml",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "D"
+    "class": "D",
+    "images":"images/Trinapanchamula.jpg"
   },
   {
     "name_of_medicine": "Varunadi Kvatha Churna",
@@ -654,7 +657,8 @@
     "dose": "25-50 ml",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "D"
+    "class": "D",
+    "images":"images/Vasaguduchyadi Kashaya Churna.jpg"
   },
   {
     "name_of_medicine": "Amritadi Guggulu",
@@ -664,7 +668,8 @@
     "dose": "500 mg - 1\ngm",
     "precaution/_contraindication": "Long term\nuse in pregnullcy",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "E"
+    "class": "E",
+    "images":"images/Amritadi Guggulu.jpg"
   },
   {
     "name_of_medicine": "Gokshuradi Guggulu",
@@ -674,7 +679,8 @@
     "dose": "500 mg  - 1\ngm",
     "precaution/_contraindication": "Long term use in pregnullcy",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "E"
+    "class": "E",
+    "images":"images/Gokshuradi Guggulu.jpg"
   },
   {
     "name_of_medicine": "Kanchanara Guggulu",
@@ -684,7 +690,8 @@
     "dose": "500 mg  - 1\ngm",
     "precaution/_contraindication": "Long term\nuse in pregnullcy",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "E"
+    "class": "E",
+    "images":"images/Kanchanara Guggulu.jpg"
   },
   {
     "name_of_medicine": "Kaishora Guggulu",
@@ -694,7 +701,8 @@
     "dose": "Up - 3 gm",
     "precaution/_contraindication": "Long term use in\npregnullcy",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "E"
+    "class": "E",
+    "images":"images/Kaishora Guggulu.jpg"
   },
   {
     "name_of_medicine": "Lakshadi Guggulu",
@@ -704,7 +712,8 @@
     "dose": "Up - 3 gm",
     "precaution/_contraindication": "Long term\nuse in pregnullcy",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "E"
+    "class": "E",
+    "images":"images/Lakshadi Guggulu.jpg"
   },
   {
     "name_of_medicine": "Navak Guggulu",
@@ -714,7 +723,8 @@
     "dose": "500 mg  - 1 gm",
     "precaution/_contraindication": "Long term use in\npregnullcy",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "E"
+    "class": "E",
+    "images":"images/Navak Guggulu.jpg"
   },
   {
     "name_of_medicine": "Rasna Guggulu",
@@ -724,7 +734,8 @@
     "dose": "500 mg  - 1 gm",
     "precaution/_contraindication": "Long term use in\npregnullcy",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "E"
+    "class": "E",
+    "images":"images/Rasna Guggulu.jpg"
   },
   {
     "name_of_medicine": "Simhanada Guggulu",
@@ -734,7 +745,8 @@
     "dose": "Up to 3 gm in divided doses",
     "precaution/_contraindication": "Pregnullcy",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "E"
+    "class": "E",
+    "images":"images/Simhanada Guggulu.jpg"
   },
   {
     "name_of_medicine": "Saptavinshati\nGuggulu",
@@ -744,7 +756,8 @@
     "dose": "Up to 3 gm in divided\ndoses",
     "precaution/_contraindication": "Pregnullcy",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "E"
+    "class": "E",
+    "images":"images/Saptavinshati.jpg"
   },
   {
     "name_of_medicine": "Triphala Guggulu",
@@ -754,7 +767,8 @@
     "dose": "Up to 3 gm in divided doses",
     "precaution/_contraindication": "Pregnullcy Chronic or recurrent\ndiarrhoea",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "E"
+    "class": "E",
+    "images":"images/Triphala Guggulu.jpg"
   },
   {
     "name_of_medicine": "Trayodashanga\nGuggulu",
@@ -764,7 +778,8 @@
     "dose": "Up to 3 gm in\ndivided doses",
     "precaution/_contraindication": "Pregnullcy",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "E"
+    "class": "E",
+    "images":"images/Trayodashanga Guggulu.jpg"
   },
   {
     "name_of_medicine": "Punarnava Guggulu",
@@ -774,7 +789,8 @@
     "dose": "Up to 3 gm in divided doses",
     "precaution/_contraindication": "Pregnullcy",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "E"
+    "class": "E",
+    "images":"images/Punarnava.jpg"
   },
   {
     "name_of_medicine": "Yogaraja Guggulu",
@@ -784,7 +800,8 @@
     "dose": "Up to 3 gm in divided doses",
     "precaution/_contraindication": "Pregnullcy",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "E"
+    "class": "E",
+    "images":"images/Yogaraja Guggulu.jpg"
   },
   {
     "name_of_medicine": "Brahmi Ghrita",
@@ -794,7 +811,8 @@
     "dose": "10 - 15 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "F"
+    "class": "F",
+    "images":"images/Brahmi Ghrita.jpg"
   },
   {
     "name_of_medicine": "Dadimadi Ghrita",
@@ -804,7 +822,8 @@
     "dose": "10-15 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "F"
+    "class": "F",
+    "images":"images/Dadimadi Ghrita.jpg"
   },
   {
     "name_of_medicine": "Guggulutiktaka Ghrita",
@@ -814,7 +833,8 @@
     "dose": "5-10 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "F"
+    "class": "F",
+    "images":"images/Guggulutiktaka Ghrita.jpg"
   },
   {
     "name_of_medicine": "Jathyadi Ghrita",
@@ -824,7 +844,8 @@
     "dose": "To be applied on affected part",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "F"
+    "class": "F",
+    "images":"images/Jathyadi Ghrita.jpg"
   },
   {
     "name_of_medicine": "Kalyanaka Ghrita",
@@ -834,7 +855,8 @@
     "dose": "10-15 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "IPD",
-    "class": "F"
+    "class": "F",
+    "images":"images/Kalyanaka Ghrita.jpg"
   },
   {
     "name_of_medicine": "Kshirashatpala\nGhrita",
@@ -844,7 +866,8 @@
     "dose": "Up to 50 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "IPD",
-    "class": "F"
+    "class": "F",
+  "images":""
   },
   {
     "name_of_medicine": "Panchatikta Ghrita",
@@ -854,7 +877,8 @@
     "dose": "5-10 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "F"
+    "class": "F",
+    "images":"images/Panchatikta .jpg"
   },
   {
     "name_of_medicine": "Phala Ghrita",
@@ -864,7 +888,8 @@
     "dose": "10-15 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "IPD",
-    "class": "F"
+    "class": "F",
+    "images":"images/Phala Ghrita.jpg"
   },
   {
     "name_of_medicine": "Shatavaryadi Ghrita",
@@ -874,7 +899,8 @@
     "dose": "10-15 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "IPD",
-    "class": "F"
+    "class": "F",
+    "images":"images/Shatavaryadi Ghrita.jpg"
   },
   {
     "name_of_medicine": "Sukumar Ghrita",
@@ -884,7 +910,8 @@
     "dose": "10-15 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "F"
+    "class": "F",
+    "images":"images/Sukumar Ghrita.jpg"
   },
   {
     "name_of_medicine": "Indu kanta Ghrita",
@@ -894,7 +921,8 @@
     "dose": "10-15 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "IPD",
-    "class": "F"
+    "class": "F",
+    "images":"images/Indu kanta Ghrita.jpg"
   },
   {
     "name_of_medicine": "Tiktaka Ghrita",
@@ -904,7 +932,8 @@
     "dose": "10-15 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "F"
+    "class": "F",
+    "images":"images/Tiktaka Ghrita.jpg"
   },
   {
     "name_of_medicine": "Triphala Ghrita",
@@ -914,7 +943,8 @@
     "dose": "10-15 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "F"
+    "class": "F",
+    "images":"images/Triphala Ghrita.jpg"
   },
   {
     "name_of_medicine": "Ajamodadi\nChurna",
@@ -924,7 +954,8 @@
     "dose": "3-6 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": null,
-    "class": "G"
+    "class": "G",
+    "images":"images/Ajamodadi Churna.jpg"
   },
   {
     "name_of_medicine": "Avipattikara Churna",
@@ -934,7 +965,8 @@
     "dose": "3-6 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": null,
-    "class": "G"
+    "class": "G",
+    "images":"images/Avipattikara Churna.jpg"
   },
   {
     "name_of_medicine": "Balachaturbhadra\nChurna",
@@ -944,7 +976,8 @@
     "dose": "250 - 500 mg",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": null,
-    "class": "G"
+    "class": "G",
+    "images":"images/Balachaturbhadra.jpg"
   },
   {
     "name_of_medicine": "Bilvadi Churna",
@@ -954,7 +987,8 @@
     "dose": "3-6 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": null,
-    "class": "G"
+    "class": "G",
+    "images":"images/Bilvadi Churna.jpg"
   },
   {
     "name_of_medicine": "Dadimastak Churna",
@@ -964,7 +998,8 @@
     "dose": "3-6 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": null,
-    "class": "G"
+    "class": "G",
+    "images":"images/Dadimastak Churna.jpg"
   },
   {
     "name_of_medicine": "Dashanasanskara\nChurna",
