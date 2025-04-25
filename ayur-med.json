@@ -505,7 +505,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "D",
-"images":""
+    "images":"images/Punarnavadi Kashayam.jpg"
   },
   {
     "name_of_medicine": "Vyaghryadi Kashayam",
@@ -527,7 +527,7 @@
     "precaution/_contraindication": "Rasaksh aya, Bahumu\ntrata",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "D",
-"images":""
+    "images":"images/Dashamula Kvatha Churna.jpg"
   },
   {
     "name_of_medicine": "Dashmula Katutraya\nKvatha Churna",
@@ -538,7 +538,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "D",
-"images":""
+    "images":"images/Dashmula Katutraya.jpg"
   },
   {
     "name_of_medicine": "Dhanyapanchaka\nKashaya Churna",
@@ -560,7 +560,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "D",
-"images":""
+    "images":"images/Guduchyadi Kashaya.jpg"
   },
   {
     "name_of_medicine": "Indukantam\nKashayam Churna",
@@ -571,7 +571,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "D",
-"images":""
+    "images":"images/Indukantam.jpg"
   },
   {
     "name_of_medicine": "Pancha-valkala Kashaya Churna",
@@ -582,7 +582,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "D",
-"images":""
+    "images":"images/Pancha-valkala Kashaya Churna.jpg"
   },
   {
     "name_of_medicine": "Pathyadi Kvatha(Shadanga) Churna",
@@ -593,7 +593,7 @@
     "precaution/_contraindication": "Chhardi, Atisara, Ativirechanajanya Rasakshaya, Vataprakopa",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "D",
-"images":""
+    "images":"images/Pathyadi Kvatha(Shadanga) Churna.jpg"
   },
   {
     "name_of_medicine": "Phalatrikadi Kvatha Churna",
@@ -603,7 +603,8 @@
     "dose": "25-50 ml",
     "precaution/_contraindication": "Chhardi, Atisara, Ativirec hana janya Rasaksh aya, Vatapra\nkopa",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "D"
+    "class": "D",
+    "images":"images/Phalatrikadi Kvatha Churna.jpg"
   },
   {
     "name_of_medicine": "Rasnasaptaka Kashaya Churna",
