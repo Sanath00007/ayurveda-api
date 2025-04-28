@@ -1009,7 +1009,8 @@
     "dose": "Use as tooth powder",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": null,
-    "class": "G"
+    "class": "G",
+    "images":"images/Dashanasanskara Churna.jpg"
   },
   {
     "name_of_medicine": "Eladi Churna",
@@ -1019,7 +1020,8 @@
     "dose": "2 -4 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": null,
-    "class": "G"
+    "class": "G",
+    "images":"images/Eladi Churna.jpg"
   },
   {
     "name_of_medicine": "Hingvashtaka\nChurna",
@@ -1029,7 +1031,8 @@
     "dose": "2- 4 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": null,
-    "class": "G"
+    "class": "G",
+    "images":"images/Hingvashtaka Churna.jpg"
   },
   {
     "name_of_medicine": "Lavanabhaskara Churna/ Bhaskarlavan churna",
@@ -1039,7 +1042,8 @@
     "dose": "3-6 gm",
     "precaution/_contraindication": "Shotha, Jalodara, hyperten sion, long\nterm use",
     "preferred_use_(opd/_ipd)": null,
-    "class": "G"
+    "class": "G",
+    "images":"images/Lavanabhaskara Churna.jpg"
   },
   {
     "name_of_medicine": "Nisha-Amalaki\nChurna",
@@ -1049,7 +1053,8 @@
     "dose": "3-6 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": null,
-    "class": "G"
+    "class": "G",
+    "images":"images/Nisha-Amalaki Churna.jpg"
   },
   {
     "name_of_medicine": "Pushyanuga Churna",
@@ -1059,7 +1064,8 @@
     "dose": "2-3 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": null,
-    "class": "G"
+    "class": "G",
+    "images":"images/Pushyanuga Churna.jpg"
   },
   {
     "name_of_medicine": "Panchanimba Churna",
@@ -1069,7 +1075,8 @@
     "dose": "3- 5 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": null,
-    "class": "G"
+    "class": "G",
+    "images":"images/Panchanimba Churna.jpg"
   },
   {
     "name_of_medicine": "Sitopaladi Churna",
@@ -1079,7 +1086,8 @@
     "dose": "2-3gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": null,
-    "class": "G"
+    "class": "G",
+    "images":"images/Sitopaladi Churna.jpg"
   },
   {
     "name_of_medicine": "Talishadya Churna",
@@ -1089,7 +1097,8 @@
     "dose": "2-4 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": null,
-    "class": "G"
+    "class": "G",
+    "images":"images/Talishadya Churna.jpg"
   },
   {
     "name_of_medicine": "Trikatu Churna",
@@ -1099,7 +1108,8 @@
     "dose": "1-2 gm",
     "precaution/_contraindication": "Paittika Vikara or Prakriti, Raktaj Roga, pregnullcy\n, long\nterm use",
     "preferred_use_(opd/_ipd)": null,
-    "class": "G"
+    "class": "G",
+    "images":"images/Trikatu Churna.jpg"
   },
   {
     "name_of_medicine": "Triphala Churna",
