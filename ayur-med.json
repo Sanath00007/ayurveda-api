@@ -1119,7 +1119,8 @@
     "dose": "3-6 gm",
     "precaution/_contraindication": "Dehydra\n-tion",
     "preferred_use_(opd/_ipd)": null,
-    "class": "G"
+    "class": "G",
+    "images":"images/Triphala Churna.jpg"
   },
   {
     "name_of_medicine": "Jatiphaladya Churna",
@@ -1129,7 +1130,8 @@
     "dose": "1-3 gm",
     "precaution/_contraindication": "Infantile, diarrhea, long term\nuse",
     "preferred_use_(opd/_ipd)": null,
-    "class": "G"
+    "class": "G",
+    "images":"images/Jatiphaladya Churna.jpg"
   },
   {
     "name_of_medicine": "Amalaki Churna",
