@@ -307,7 +307,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "B",
-"images":""
+    "images":"images/Arka Shatpushpa.jpg"
   },
   {
     "name_of_medicine": "Arka Pudina",
@@ -340,7 +340,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "C",
-"images":""
+    "images":"images/Bilvadi Leha.jpg"
   },
   {
     "name_of_medicine": "Brahama Rasayana",
@@ -417,7 +417,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "C",
-"images":""
+    "images":"images/Kalyanak Guda.jpg"
   },
   {
     "name_of_medicine": "Kantakaryavaleha",
@@ -428,7 +428,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "C",
-"images":""
+    "images":"images/Kantakaryavaleha.jpg"
   },
   {
     "name_of_medicine": "Kushmandaka Rasayana",
@@ -439,7 +439,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "C",
-"images":""
+    "images":"images/Kushmandaka Rasayana.jpg"
   },
   {
     "name_of_medicine": "Puga Khanda/ Supari Paka",
@@ -450,7 +450,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "C",
-"images":""
+    "images":"images/Supari Paka.jpg"
   },
   {
     "name_of_medicine": "Saubhagyashunthi Paka",
@@ -472,7 +472,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "C",
-"images":""
+    "images":"images/Shatavariguda.jpg"
   },
   {
     "name_of_medicine": "Vasavaleha",
@@ -516,7 +516,7 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "D",
-"images":""
+    "images":"images/Vyaghryadi Kashayam.jpg"
   },
   {
     "name_of_medicine": "Dashamula Kvatha Churna",
@@ -647,7 +647,8 @@
     "dose": "25-50 ml",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "D"
+    "class": "D",
+    "images":"images/Varunadi Kvatha Churna.jpg"
   },
   {
     "name_of_medicine": "Vasaguduchyadi\nKashaya Churna",
@@ -1141,7 +1142,8 @@
     "dose": "3-6 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "H"
+    "class": "H",
+    "images":"images/Amalaki Churna.jpg"
   },
   {
     "name_of_medicine": "Arjuna Churna",
@@ -1151,7 +1153,8 @@
     "dose": "3-6 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "H"
+    "class": "H",
+    "images":"images/Arjuna Churna.jpg"
   },
   {
     "name_of_medicine": "Ashvagandha Churna",
@@ -1161,7 +1164,8 @@
     "dose": "3-6 gm",
     "precaution/_contraindication": "Long term use may increase blood\npressure",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "H"
+    "class": "H",
+    "images":"images/Ashvagandha Churna.jpg"
   },
   {
     "name_of_medicine": "Gokshura Churna",
@@ -1171,7 +1175,8 @@
     "dose": "2-5 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "H"
+    "class": "H",
+    "images":"images/Gokshura Churna.jpg"
   },
   {
     "name_of_medicine": "Guduchi Churna",
@@ -1181,7 +1186,8 @@
     "dose": "3-6 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "H"
+    "class": "H",
+    "images":"images/Guduchi Churna.jpg"
   },
   {
     "name_of_medicine": "Haritaki Churna",
@@ -1191,7 +1197,8 @@
     "dose": "3-6 gm",
     "precaution/_contraindication": "Debility, pregnullcy, dehydration\n, Paittika Roga,",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "H"
+    "class": "H",
+    "images":"images/Haritaki Churna.jpg"
   },
   {
     "name_of_medicine": "Pippali Churna",
@@ -1201,7 +1208,8 @@
     "dose": "1-2 gm",
     "precaution/_contraindication": "Long term use in higher\ndoses",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "H"
+    "class": "H",
+    "images":"images/Pippali Churna.jpg"
   },
   {
     "name_of_medicine": "Pippali mula Churna",
