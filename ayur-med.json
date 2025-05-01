@@ -1417,7 +1417,8 @@
     "dose": "For Abhyanga",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "I"
+    "class": "I",
+    "images":"images/Kottamachukkadi Taila.jpg"
   },
   {
     "name_of_medicine": "Karpuradi Taila",
@@ -1427,7 +1428,8 @@
     "dose": "For Abhyanga",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "I"
+    "class": "I",
+    "images":"images/Karpuradi Taila.jpg"
   },
   {
     "name_of_medicine": "Kasisadi Taila",
@@ -1437,7 +1439,8 @@
     "dose": "External use for\nArshankura",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "I"
+    "class": "I",
+    "images":"images/Kasisadi Taila.jpg"
   },
   {
     "name_of_medicine": "Laghuvishagarbha\nTaila",
@@ -1447,7 +1450,8 @@
     "dose": "For Abhyanga",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "I"
+    "class": "I",
+    "images":"images/Laghuvishagarbha Taila.jpg"
   },
   {
     "name_of_medicine": "Marichyadi Taila",
@@ -1457,7 +1461,8 @@
     "dose": "Application on\naffected part",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "I"
+    "class": "I",
+    "images":"images/Marichyadi Taila.jpg"
   },
   {
     "name_of_medicine": "Mahanarayan Taila",
@@ -1467,7 +1472,8 @@
     "dose": "For Abhyanga, Nasya,\nulluvasana Vasti",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "I"
+    "class": "I",
+    "images":"images/Mahanarayan Taila.jpg"
   },
   {
     "name_of_medicine": "Brihanmasha Taila\n/Mahamash Taila",
@@ -1477,7 +1483,8 @@
     "dose": "For Abhyanga",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "I"
+    "class": "I",
+    "images":"images/Mahamash Taila.jpg"
   },
   {
     "name_of_medicine": "Murivenna Tail",
@@ -1487,7 +1494,8 @@
     "dose": "For Abhyanga",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "I"
+    "class": "I",
+    "images":"images/Murivenna Tail.jpg"
   },
   {
     "name_of_medicine": "Narayana Taila",
@@ -1497,7 +1505,8 @@
     "dose": "Internal  use: 6 gm External use: f Nasya, Abhyanga and\nulluvasana Vasti",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "I"
+    "class": "I",
+    "images":"images/Narayana Taila.jpg"
   },
   {
     "name_of_medicine": "Nalpamaradi Taila",
