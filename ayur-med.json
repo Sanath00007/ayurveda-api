@@ -1219,7 +1219,8 @@
     "dose": "500mg -1 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "H"
+    "class": "H",
+    "images":"images/Pippali mula Churna.jpg"
   },
   {
     "name_of_medicine": "Punarnava Churna",
@@ -1229,7 +1230,8 @@
     "dose": "2-3 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "H"
+    "class": "H",
+    "images":"images/Punarnava Churna.jpg"
   },
   {
     "name_of_medicine": "Shunthi Churna",
@@ -1239,7 +1241,8 @@
     "dose": "2- 3 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "H"
+    "class": "H",
+    "images":"images/Shunthi Churna.jpg"
   },
   {
     "name_of_medicine": "Sarasvata Churna",
@@ -1249,7 +1252,8 @@
     "dose": "1-2 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "H"
+    "class": "H",
+    "images":"images/Sarasvata Churna.jpg"
   },
   {
     "name_of_medicine": "Trivritamul Churna / Trivrita Churna",
@@ -1259,7 +1263,8 @@
     "dose": "2-3gm",
     "precaution/_contraindication": "Dehydrat ion, malnutrit ion,  long\nterm use",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "H"
+    "class": "H",
+    "images":"images/Trivrita Churna.jpg"
   },
   {
     "name_of_medicine": "Vidanga Churna",
@@ -1269,7 +1274,8 @@
     "dose": "5-10  gm",
     "precaution/_contraindication": "May prevent or disrupt\nconception",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "H"
+    "class": "H",
+    "images":"images/Vidanga Churna.jpg"
   },
   {
     "name_of_medicine": "Yashtimadhu/ Madhuyashti/ Yashti Churna",
@@ -1279,7 +1285,8 @@
     "dose": "Up to 12 gm",
     "precaution/_contraindication": "Obesity, hypertensio\nn, oedema, long term use",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "H"
+    "class": "H",
+    "images":"images/Yashtimadhu Churna.jpg"
   },
   {
     "name_of_medicine": "Anutaila",
@@ -1289,7 +1296,8 @@
     "dose": "2-10 drops for  nasal\nadministration",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "I"
+    "class": "I",
+    "images":"images/Anutaila.jpg"
   },
   {
     "name_of_medicine": "Apamargkshara\nTaila",
@@ -1299,7 +1307,8 @@
     "dose": "2-5 drops in each ear",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "I"
+    "class": "I",
+    "images":"images/Apamargkshara Taila.jpg"
   },
   {
     "name_of_medicine": "Bala Taila",
@@ -1309,7 +1318,8 @@
     "dose": "For Abhyanga",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "I"
+    "class": "I",
+    "images":"images/Bala Taila.jpg"
   },
   {
     "name_of_medicine": "Balashvagandhadi\nTaila",
@@ -1319,7 +1329,8 @@
     "dose": "For Jwara",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "I"
+    "class": "I",
+    "images":"images/Balashvagandhadi Taila.jpg"
   },
   {
     "name_of_medicine": "Bhringaraja Tail",
@@ -1329,7 +1340,8 @@
     "dose": "For Nasya, Shiroabhyanga,\nKavalgraha",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "I"
+    "class": "I",
+    "images":"images/Bhringaraja Tail.jpg"
   },
   {
     "name_of_medicine": "Dhanvantar Taila/Dhanvantar\nTaila Avarti",
@@ -1339,7 +1351,8 @@
     "dose": "10-30 drops for internal use",
     "precaution/_contraindication": "Amadosh a",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "I"
+    "class": "I",
+    "images":"images/Dhanvantar Taila.png"
   },
   {
     "name_of_medicine": "Eranda Taila",
@@ -1349,7 +1362,8 @@
     "dose": "10-30 ml",
     "precaution/_contraindication": "Peri- conceptio n period, long term use in\npregnullcy",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "I"
+    "class": "I",
+    "images":"images/Eranda Taila.jpg"
   },
   {
     "name_of_medicine": "Erimedadi Taila",
@@ -1359,7 +1373,8 @@
     "dose": "For Kavalgraha, Pratisarana, Nasya,\nShirodharana",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "I"
+    "class": "I",
+    "images":"images/Erimedadi Taila.jpg"
   },
   {
     "name_of_medicine": "Gandharvahasta Taila",
@@ -1369,7 +1384,8 @@
     "dose": "6-12 ml",
     "precaution/_contraindication": "Ajirna, Amavast\nha",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "I"
+    "class": "I",
+    "images":"images/Gandharvahasta Taila.jpg"
   },
   {
     "name_of_medicine": "Jatyadi Taila",
@@ -1379,7 +1395,8 @@
     "dose": "Application on wound\nor injury",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "I"
+    "class": "I",
+    "images":"images/Jatyadi Taila.jpg"
   },
   {
     "name_of_medicine": "Kshirbala Taila / Kshirbala Taila Avarti (Shatapaki)",
@@ -1389,7 +1406,8 @@
     "dose": "Internal  use: 10-\n12 ml External use:\nAbhyanga and Nasya",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "I"
+    "class": "I",
+    "images":"images/Kshirbala Taila.jpg"
   },
   {
     "name_of_medicine": "Kottamachukkadi\nTaila",
