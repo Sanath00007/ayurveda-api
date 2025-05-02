@@ -1516,7 +1516,8 @@
     "dose": "For  Pratisarana,\nAbhyanga",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "I"
+    "class": "I",
+    "images":"images/Nalpamaradi Taila.jpg"
   },
   {
     "name_of_medicine": "Nirgundi Taila",
@@ -1526,7 +1527,8 @@
     "dose": "Internal  use: 15- 30 ml\nExternal use: Abhyanga and 2-6 drops for Nasya or\nKarnapuran",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "I"
+    "class": "I",
+    "images":"images/Nirgundi Taila.jpg"
   },
   {
     "name_of_medicine": "Panchaguna Taila",
@@ -1536,7 +1538,8 @@
     "dose": "For Abhyanga, wound dressing Karnapurana\nor Karnabindu",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "I"
+    "class": "I",
+    "images":"images/Panchaguna Taila.jpg"
   },
   {
     "name_of_medicine": "Pinda Taila",
@@ -1546,7 +1549,8 @@
     "dose": "Used externally for\nAbhyanga",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "I"
+    "class": "I",
+    "images":"images/Pinda Taila.jpg"
   },
   {
     "name_of_medicine": "Prasarini Taila",
@@ -1556,7 +1560,8 @@
     "dose": "For Abhyanga over affected body part",
     "precaution/_contraindication": "Not to be used in Guda roga, Krisha rogi, Ajirna, Vamit, Kritnasy a,\nVirikta",
     "preferred_use_(opd/_ipd)": "IPD",
-    "class": "I"
+    "class": "I",
+    "images":"images/Prasarini Taila.jpg"
   },
   {
     "name_of_medicine": "Sahacharadi Taila/ Brihatsahcharadi Taila",
@@ -1566,7 +1571,8 @@
     "dose": "Internal  use: 6-12 ml\nExternal use for Abhyanga",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "IPD",
-    "class": "I"
+    "class": "I",
+    "images":"images/Sahacharadi Taila.jpg"
   },
   {
     "name_of_medicine": "Saindhavadi Taila",
@@ -1576,7 +1582,8 @@
     "dose": "For Abhyanga",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "IPD",
-    "class": "I"
+    "class": "I",
+    "images":"images/Saindhavadi Taila.jpg"
   },
   {
     "name_of_medicine": "Shadabindu Taila",
@@ -1586,7 +1593,8 @@
     "dose": "For Nasya, Kavalgraha,\nAbhyanga, Shiroabhyanga",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "IPD",
-    "class": "I"
+    "class": "I",
+    "images":"images/Shadabindu Taila.jpg"
   },
   {
     "name_of_medicine": "Somaraji Taila\n/Bakuchi Taila",
@@ -1596,7 +1604,8 @@
     "dose": "For local application on affected body part",
     "precaution/_contraindication": "Discontinue if excessive irritation, vescication, extensive hyperpigmentation\nappears",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "I"
+    "class": "I",
+    "images":"images/Somaraji Taila.jpg"
   },
   {
     "name_of_medicine": "Apamarga Kshar",
@@ -1606,7 +1615,8 @@
     "dose": "125-500 mg",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "J"
+    "class": "J",
+    "images":"images/Apamarga Kshar.jpg"
   },
   {
     "name_of_medicine": "Yavakshar",
@@ -1616,7 +1626,8 @@
     "dose": "500 mg - 1 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "J"
+    "class": "J",
+    "images":"images/Yavakshar.jpg"
   },
   {
     "name_of_medicine": "Ksharsutra",
@@ -1626,7 +1637,8 @@
     "dose": "To be applied on affected part",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "IPD",
-    "class": "J"
+    "class": "J",
+"images":""    
   },
   {
     "name_of_medicine": "Dashanga Lepa",
@@ -1636,7 +1648,8 @@
     "dose": "To apply on affected\npart",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "K"
+    "class": "K",
+    "images":"images/Dashanga Lepa.jpg"
   },
   {
     "name_of_medicine": "Shveta Malaham",
@@ -1646,7 +1659,8 @@
     "dose": "To apply on affected\npart",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "K"
+    "class": "K",
+"images":""     
   },
   {
     "name_of_medicine": "Sarjarasa Malahara",
@@ -1656,7 +1670,8 @@
     "dose": "To apply on affected\npart",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "K"
+    "class": "K",
+"images":""
   },
   {
     "name_of_medicine": "Abhayadi Modakam",
@@ -1666,7 +1681,8 @@
     "dose": "2-4 modakam",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "L"
+    "class": "L",
+"images":""    
   },
   {
     "name_of_medicine": "Bilvadi Gutika",
@@ -1676,7 +1692,8 @@
     "dose": "1-2 pills",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "L"
+    "class": "L",
+    "images":"images/Bilvadi Gutika.jpg"
   },
   {
     "name_of_medicine": "Chandraprabha Vati",
@@ -1686,7 +1703,8 @@
     "dose": "250 mg",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "L"
+    "class": "L",
+    "images":"images/Chandraprabha Vati.jpg"
   },
   {
     "name_of_medicine": "Chitrakadi Gutika",
@@ -1696,7 +1714,8 @@
     "dose": "250-500 mg",
     "precaution/_contraindication": "Pregnullcy, Uterine bleeding, Pitta Prakriti, Raktpittaj Roga, long\nterm use",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "L"
+    "class": "L",
+    "images":"images/Chitrakadi Gutika.jpg"
   },
   {
     "name_of_medicine": "Dhanvantar Gutika",
@@ -1706,7 +1725,8 @@
     "dose": "250 -500 mg",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "L"
+    "class": "L",
+    "images":"images/Dhanvantar Gutika.png"
   },
   {
     "name_of_medicine": "Eladi Gutika",
@@ -1716,7 +1736,8 @@
     "dose": "500 mg -1 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "L"
+    "class": "L",
+    "images":"images/Eladi Gutika.jpg"
   },
   {
     "name_of_medicine": "Kankayan Gutika",
@@ -1726,7 +1747,8 @@
     "dose": "500 mg- 1 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "L"
+    "class": "L",
+    "images":"images/Kankayan Gutika.jpg"
   },
   {
     "name_of_medicine": "Khadiradi Gutika (Mukhroga)",
@@ -1736,7 +1758,8 @@
     "dose": "1 - 2 pills",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "L"
+    "class": "L",
+    "images":"images/Khadiradi Gutika (Mukhroga).jpg"
   },
   {
     "name_of_medicine": "Kutajaghan Vati",
@@ -1746,7 +1769,8 @@
     "dose": "250-500 mg",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "L"
+    "class": "L",
+    "images":"images/Kutajaghan Vati.jpg"
   },
   {
     "name_of_medicine": "Lavangadi Vati",
@@ -1756,7 +1780,8 @@
     "dose": "1-2 pills",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "L"
+    "class": "L",
+    "images":"images/Lavangadi Vati.jpg"
   },
   {
     "name_of_medicine": "Lahsunadi Vati",
@@ -1766,7 +1791,8 @@
     "dose": "500 mg -1 gm",
     "precaution/_contraindication": "Hyperacidity, Peptic Ulcer, Pitta Prakriti, history of Raktapitt aja\nVikara",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "L"
+    "class": "L",
+    "images":"images/Lahsunadi Vati.jpg"
   },
   {
     "name_of_medicine": "Prabhakara Vati",
@@ -1776,7 +1802,8 @@
     "dose": "125-250 mg",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "L"
+    "class": "L",
+    "images":"images/Prabhakara Vati.jpg"
   },
   {
     "name_of_medicine": "Rajahpravartini Vati",
