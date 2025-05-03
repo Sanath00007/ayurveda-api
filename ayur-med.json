@@ -1813,7 +1813,8 @@
     "dose": "250 mg",
     "precaution/_contraindication": "Pregnullcy, lactation, excessive Uterine Bleeding, kidney disease, discontinue in case of severe abdominal\npain",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "L"
+    "class": "L",
+    "images":"images/Rajahpravartini Vati.jpg"
   },
   {
     "name_of_medicine": "Samshamani Vati\n/ Guduchighana Vati",
@@ -1823,7 +1824,8 @@
     "dose": "250-500 mg",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "L"
+    "class": "L",
+    "images":"images/Samshamani Vati.jpg"
   },
   {
     "name_of_medicine": "Sarpagandhaghana Vati",
@@ -1833,7 +1835,8 @@
     "dose": "250-500 mg",
     "precaution/_contraindication": "Concomi tant use of medicines made of Vatsanab ha\nor Gok shuru, anti hyperten sives/ depressa nts/ psychotropic medicines postural hypotens ion,\nbradycar dia",
     "preferred_use_(opd/_ipd)": "Both\n-",
-    "class": "L"
+    "class": "L",
+    "images":"images/Sarpagandhaghana Vati.jpg"
   },
   {
     "name_of_medicine": "Sanjivani Vati",
@@ -1843,7 +1846,8 @@
     "dose": "125 mg",
     "precaution/_contraindication": "Pitta Prakriti individuals, hyper sensitivity to Bhallataka, patients having history of Raktapittaja Vikara,\npregnullcy, cardiac arrhythmia,\nlong term use",
     "preferred_use_(opd/_ipd)": "Both\n-",
-    "class": "L"
+    "class": "L",
+    "images":"images/Sanjivani Vati.jpg"
   },
   {
     "name_of_medicine": "Vettumaran Gulika",
@@ -1853,7 +1857,8 @@
     "dose": "250-375 mg",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "L"
+    "class": "L",
+    "images":"images/Vettumaran Gulika.jpg"
   },
   {
     "name_of_medicine": "Elanirkuzambu/N alikeranjana",
@@ -1863,7 +1868,8 @@
     "dose": "1-2 drops to be instilled in eyes",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "M"
+    "class": "M",
+    "images":"images/Elanirkuzambu.jpg"
   },
   {
     "name_of_medicine": "Guduchi Sattva",
@@ -1873,7 +1879,8 @@
     "dose": "500 mg- 1gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "N"
+    "class": "N",
+    "images":"images/Guduchi Sattva.jpg"
   },
   {
     "name_of_medicine": "Panchamrita Parpati",
@@ -1883,7 +1890,8 @@
     "dose": "125- 250 mg",
     "precaution/_contraindication": "Peri- concepti onal period, pregnullc y, lactation period, kidney disease, small\nchildren",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "O"
+    "class": "O",
+    "images":"images/Panchamrita Parpati.jpg"
   },
   {
     "name_of_medicine": "Shveta Parpati/Kshara\nParpati",
@@ -1893,7 +1901,8 @@
     "dose": "500 mg- 1 gm",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "O"
+    "class": "O",
+    "images":"images/Shveta Parpati.jpg"
   },
   {
     "name_of_medicine": "Akika Pishti",
@@ -1903,7 +1912,8 @@
     "dose": "125 -- 250 mg",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "P"
+    "class": "P",
+    "images":"images/Akika Pishti.jpg"
   },
   {
     "name_of_medicine": "Mukta Pishti",
@@ -1913,7 +1923,8 @@
     "dose": "65-125 mg",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "IPD",
-    "class": "P"
+    "class": "P",
+    "images":"images/Mukta Pishti.jpg"
   },
   {
     "name_of_medicine": "Pravala Pishti",
@@ -1923,7 +1934,8 @@
     "dose": "250 mg",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "P"
+    "class": "P",
+    "images":"images/Pravala Pishti.jpg"
   },
   {
     "name_of_medicine": "Godanti Bhasma",
@@ -1933,7 +1945,8 @@
     "dose": "500 mg- 1 gm  with ghee, sugar, warm\nmilk or water",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "Q"
+    "class": "Q",
+    "images":"images/Godanti Bhasma.jpg"
   },
   {
     "name_of_medicine": "Jaharamohara\nBhasma",
@@ -1943,7 +1956,8 @@
     "dose": "250- 500 mg",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "Q"
+    "class": "Q",
+    "images":"images/Jaharamohara.jpg"
   },
   {
     "name_of_medicine": "Kapardika Bhasma",
@@ -1953,7 +1967,8 @@
     "dose": "250 mg",
     "precaution/_contraindication": "Not to be used on change of physical\ncharacter istics",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "Q"
+    "class": "Q",
+    "images":"images/Kapardika Bhasma.jpg"
   },
   {
     "name_of_medicine": "Mandur Bhasma",
@@ -1963,7 +1978,8 @@
     "dose": "250-500 mg",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "Q"
+    "class": "Q",
+    "images":"images/Mandur Bhasma.jpg"
   },
   {
     "name_of_medicine": "Muktashukti Bhasma",
@@ -1973,7 +1989,8 @@
     "dose": "250-500 mg",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "Q"
+    "class": "Q",
+    "images":"images/Muktashukti Bhasma.jpg"
   },
   {
     "name_of_medicine": "Shankha Bhasma",
@@ -1983,7 +2000,8 @@
     "dose": "250 mg",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "Q"
+    "class": "Q",
+    "images":"images/Shankha Bhasma.jpg"
   },
   {
     "name_of_medicine": "Sphatika Bhasma",
@@ -1993,7 +2011,8 @@
     "dose": "125-250 mg",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "Q"
+    "class": "Q",
+    "images":"images/Sphatika Bhasma.jpg"
   },
   {
     "name_of_medicine": "Tankana Bhasma/\nSaubhagya Bhasma",
@@ -2003,7 +2022,8 @@
     "dose": "125 - 250 mg",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "Q"
+    "class": "Q",
+    "images":"images/Tankana Bhasma.jpg"
   },
   {
     "name_of_medicine": "Punarnavadi Mandura",
@@ -2013,7 +2033,8 @@
     "dose": "250-500 mg",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "R"
+    "class": "R",
+    "images":"images/Punarnavadi Mandura.jpg"
   },
   {
     "name_of_medicine": "Arogyavardhini\nVati/Rasa",
@@ -2023,7 +2044,8 @@
     "dose": "250-500 mg",
     "precaution/_contraindication": "Old age,\nPaediatric age group, periconc eptional period, pregnullcy, lactation period, kidney\ndisease, karshaya",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "S"
+    "class": "S",
+    "images":"images/Arogyavardhini Vati.jpg"
   },
   {
     "name_of_medicine": "Arsho Kuthara Rasa",
@@ -2033,7 +2055,8 @@
     "dose": "250 mg",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "S"
+    "class": "S",
+    "images":"images/Arsho Kuthara Rasa.jpg"
   },
   {
     "name_of_medicine": "Brahmi Vati",
@@ -2043,7 +2066,8 @@
     "dose": "125-250 mg",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "S"
+    "class": "S",
+    "images":"images/Brahmi Vati.jpg"
   },
   {
     "name_of_medicine": "Gandhak Rasayana",
@@ -2053,17 +2077,19 @@
     "dose": "250-500 mg",
     "precaution/_contraindication": "Hyperse nsitivity, loose\nmotions",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "S"
+    "class": "S",
+    "images":"images/Gandhak Rasayana.jpg"
   },
   {
-    "name_of_medicine": "Kamadudha  Rasa",
+    "name_of_medicine": "Kamadudha Rasa",
     "reference_text": "RYS",
     "dispensing_pack_size": "5 gm",
     "main_indications": "Amlapitta, Raktapitta, Daha, JirnaJvara,\nPradara",
     "dose": "125-250 mg",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "S"
+    "class": "S",
+    "images":"images/Kamadudha Rasa.jpg"
   },
   {
     "name_of_medicine": "Laghumalini Vasanta Rasa",
@@ -2073,7 +2099,8 @@
     "dose": "125- 250 mg",
     "precaution/_contraindication": "Kidney disease, long term\nuse",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "S"
+    "class": "S",
+    "images":"images/Laghumalini Vasanta Rasa.jpg"
   },
   {
     "name_of_medicine": "Laghu Sutashekhara Rasa",
@@ -2083,7 +2110,8 @@
     "dose": "250-500mg",
     "precaution/_contraindication": "Long term use, pregnullcy lactation period, paediatric age\ngroup",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "S"
+    "class": "S",
+    "images":"images/Laghu Sutashekhara Rasa.jpg"
   },
   {
     "name_of_medicine": "Navajivana Rasa",
@@ -2093,7 +2121,8 @@
     "dose": "625-125 mg",
     "precaution/_contraindication": "Long term use, hyperten sion,\npregnullcy",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "S"
+    "class": "S",
+    "images":"images/Navajivana Rasa.jpg"
   },
   {
     "name_of_medicine": "Shankha Vati",
@@ -2103,7 +2132,8 @@
     "dose": "250-500 mg in divided doses",
     "precaution/_contraindication": "Kidney disease, bradycar- dia, arrhy- thmia, hypotens ion,  long term use, peri- concepti onal period period,\npregnullcy, lactating mothers and debilitate\npatients",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "S"
+    "class": "S",
+    "images":"images/Shankha Vati.jpg"
   },
   {
     "name_of_medicine": "Shirahshuladi vajra Rasa",
@@ -2113,7 +2143,8 @@
     "dose": "250-500 mg\nin single or divided dose",
     "precaution/_contraindication": "Kidney disease, long term use, peri- concepti onal period, pregnullcy, lactating mothers, debilitay ed\npatients",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "S"
+    "class": "S",
+    "images":"images/Shirahshuladi vajra Rasa.jpg"
   },
   {
     "name_of_medicine": "Shvasakuthara Rasa",
@@ -2123,7 +2154,8 @@
     "dose": "125-250 mg",
     "precaution/_contraindication": "Kidney disease, bradycar dia, arrhy- thmia, hypotens ion,  long term adm- inist ration, periconc eptional period, pregnullcy, lactating mothers, debilitate\npatients",
     "preferred_use_(opd/_ipd)": "IPD",
-    "class": "S"
+    "class": "S",
+    "images":"images/Shvasakuthara Rasa.jpg"
   },
   {
     "name_of_medicine": "Smritisagara Rasa",
@@ -2133,7 +2165,8 @@
     "dose": "125-250 mg",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "S"
+    "class": "S",
+    "images":"images/Smritisagara Rasa.jpg"
   },
   {
     "name_of_medicine": "Tribhuvankirti Rasa",
@@ -2143,7 +2176,8 @@
     "dose": "125-250 mg",
     "precaution/_contraindication": "Bradycar dia, arrhythm ias, small children, Vrikka Roga, long term administ ration, periconc eptional period,\npregnullcy, debilitate patients",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "S"
+    "class": "S",
+    "images":"images/Tribhuvankirti Rasa.jpg"
   },
   {
     "name_of_medicine": "Vatagajankusha Rasa",
@@ -2153,7 +2187,8 @@
     "dose": "250 mg",
     "precaution/_contraindication": "Long term use, Vrikka Roga, peri- concepti onal period, pregnullcy, lactation and\ndebilitate patients",
     "preferred_use_(opd/_ipd)": "IPD",
-    "class": "S"
+    "class": "S",
+    "images":"images/Vatagajankusha Rasa.jpg"
   },
   {
     "name_of_medicine": "Vatavidhavansan Rasa",
@@ -2163,7 +2198,8 @@
     "dose": "250 mg",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "IPD",
-    "class": "S"
+    "class": "S",
+    "images":"images/Vatavidhavansan Rasa.jpg"
   },
   {
     "name_of_medicine": "Navayasa Lauha",
@@ -2173,7 +2209,8 @@
     "dose": "250 mg",
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
-    "class": "T"
+    "class": "T",
+  "images":""  
   },
   {
     "name_of_medicine": "Saptamrita Lauha",
@@ -2184,6 +2221,6 @@
     "precaution/_contraindication": "NS",
     "preferred_use_(opd/_ipd)": "Both",
     "class": "T",
-    "images":"images/Saptamrita Lauha.jpg"
+"images":""
   }
 ]
