@@ -1,92 +1,602 @@
 [
   {
-    "condition": "Cough",
-    "herbs": ["Tulsi", "Honey"],
-    "remedy": "Mix tulsi juice with honey. Take twice daily."
+    "condition": "Common Cold",
+    "remedy": "Tulsi-Ginger Tea",
+    "ingredients": [
+      "5-7 Tulsi leaves",
+      "1 inch fresh ginger",
+      "1 cup water",
+      "1 tsp honey (optional)"
+    ],
+    "instructions": "Crush tulsi leaves and thinly slice or crush ginger. Boil in one cup of water for 5–7 minutes. Strain, let cool slightly and add honey if desired. Sip warm 2–3 times daily.",
+    "precautions": "Do not give honey to infants under 1 year. If fever is high or symptoms worsen, consult a physician.",
+    "category": "Ayurveda",
+    "source": "Ministry of AYUSH / CCRAS"
   },
   {
-    "condition": "Fever",
-    "herbs": ["Giloy", "Tulsi"],
-    "remedy": "Boil giloy stem with tulsi and drink daily."
+    "condition": "Cough (Dry)",
+    "remedy": "Honey–Lemon with Warm Water",
+    "ingredients": [
+      "1 tsp honey",
+      "1 tsp fresh lemon juice",
+      "1 cup warm water"
+    ],
+    "instructions": "Stir honey and lemon into warm (not boiling) water and sip slowly when cough is dry and irritating. Use 2–3 times daily.",
+    "precautions": "Do not give honey to children under 1 year. If cough persists >7 days or there is blood/shortness of breath, seek medical care.",
+    "category": "Home remedy",
+    "source": "Ministry of AYUSH"
   },
   {
-    "condition": "cold",
-    "remedy": "Drink ginger tea made by boiling fresh ginger slices in water; add honey and lemon for added relief."
+    "condition": "Sore Throat",
+    "remedy": "Warm Salt Water Gargle",
+    "ingredients": [
+      "1/2 to 1 tsp salt",
+      "1 cup warm water"
+    ],
+    "instructions": "Dissolve salt fully in warm water. Gargle at the back of the throat for 15–30 seconds and spit. Repeat 3–4 times daily.",
+    "precautions": "Do not swallow gargle solution. If severe pain, high fever, or difficulty breathing/swallowing occurs, see a doctor.",
+    "category": "Home remedy",
+    "source": "CCRAS"
   },
   {
-    "condition": "cough",
-    "remedy": "Prepare a decoction of tulsi leaves and honey; consume twice daily to soothe the throat."
+    "condition": "Headache (Tension)",
+    "remedy": "Lavender/Tulsi Steam or Compress",
+    "ingredients": [
+      "Few tulsi leaves or 2–3 drops lavender essential oil (optional)*",
+      "Hot water",
+      "Thin cloth"
+    ],
+    "instructions": "For steam: add tulsi leaves or a drop of lavender oil to hot water, inhale steam for 5–8 minutes with eyes closed (keep safe distance). For compress: soak cloth in warm water, wring and place on forehead for 10–15 minutes.",
+    "precautions": "Avoid essential oils near children and pregnant women without professional advice. Do not use steam if there's a cardiac/respiratory condition without consulting a doctor.",
+    "category": "Natural comfort",
+    "source": "Traditional practices / CCRAS"
   },
   {
-    "condition": "fever",
-    "remedy": "Boil giloy stem with tulsi leaves; drink the concoction daily to help reduce fever."
+    "condition": "Fever (Low-grade)",
+    "remedy": "Light Hydration with Lemon and Tulsi",
+    "ingredients": [
+      "Fresh tulsi leaves",
+      "1/2 lemon",
+      "1 glass water"
+    ],
+    "instructions": "Prepare a mild infusion of tulsi leaves in warm water, strain and add lemon. Sip frequently to maintain hydration. Use rest and temperature monitoring.",
+    "precautions": "High or persistent fever (>38.5°C / 101.3°F), seizures, or altered consciousness require immediate medical attention. Do not rely solely on home remedies in children or elderly with fever.",
+    "category": "Supportive care",
+    "source": "AYUSH guidance"
   },
   {
-    "condition": "indigestion",
-    "remedy": "Consume fennel tea after meals to aid digestion and relieve bloating."
+    "condition": "Indigestion / Gas",
+    "remedy": "Cumin–Coriander–Fennel (CCF) Decoction",
+    "ingredients": [
+      "1 tsp cumin seeds",
+      "1 tsp coriander seeds",
+      "1 tsp fennel seeds",
+      "2 cups water"
+    ],
+    "instructions": "Lightly crush the seeds. Boil them in 2 cups water until reduced to 1 cup. Strain and drink warm after meals (1/4–1/2 cup).",
+    "precautions": "Avoid large quantities during pregnancy unless approved by a practitioner. If severe pain, bleeding, or prolonged vomiting, seek medical care.",
+    "category": "Digestive",
+    "source": "Dr. Vasant Lad / AYUSH"
   },
   {
-    "condition": "sore throat",
-    "remedy": "Gargle with warm water mixed with turmeric and salt to alleviate throat discomfort."
+    "condition": "Upset Stomach (Nausea)",
+    "remedy": "Ginger Sip",
+    "ingredients": [
+      "1 inch fresh ginger",
+      "1 cup water",
+      "Honey (optional)"
+    ],
+    "instructions": "Slice or crush ginger and boil in water for 5 minutes. Strain and sip slowly. Take small sips as needed.",
+    "precautions": "Avoid in case of severe abdominal pain, suspected obstruction, or if vomiting blood. Consult a doctor if symptoms persist.",
+    "category": "Digestive",
+    "source": "Traditional / AYUSH"
   },
   {
-    "condition": "headache",
-    "remedy": "Apply a paste of sandalwood powder and water on the forehead to relieve headache."
+    "condition": "Acid Reflux / Heartburn",
+    "remedy": "Amla (Indian Gooseberry) Powder with Water",
+    "ingredients": [
+      "1/2 tsp amla powder (or 1 tsp fresh amla juice)",
+      "1/2 cup water"
+    ],
+    "instructions": "Mix amla powder in water and drink after meals. Alternatively, chew a small piece of fresh amla.",
+    "precautions": "If on acid-suppressing medications or with persistent reflux, consult a physician. Do not use excessive amounts.",
+    "category": "Digestive",
+    "source": "Ayurvedic texts / AYUSH"
   },
   {
-    "condition": "constipation",
-    "remedy": "Drink warm water with a teaspoon of triphala powder before bedtime to promote bowel movements."
+    "condition": "Insomnia (Mild)",
+    "remedy": "Warm Turmeric Milk (Golden Milk)",
+    "ingredients": [
+      "1 cup warm milk (dairy or plant)",
+      "1/4 tsp turmeric",
+      "Pinch of black pepper",
+      "Honey to taste (optional)"
+    ],
+    "instructions": "Warm milk gently, whisk in turmeric and black pepper. Sweeten with honey when warm. Drink 30–60 minutes before bed.",
+    "precautions": "Turmeric in culinary amounts is generally safe; avoid large medicinal doses without guidance. If you have liver disease or are on blood thinners, consult a doctor.",
+    "category": "Sleep aid",
+    "source": "Traditional Ayurvedic practice"
   },
   {
-    "condition": "stress",
-    "remedy": "Practice daily meditation and consume ashwagandha supplements to reduce stress levels."
+    "condition": "Earache (External)",
+    "remedy": "Warm Olive Oil Drops (Adults)",
+    "ingredients": [
+      "Few drops of warm (not hot) olive oil"
+    ],
+    "instructions": "Warm a small amount of olive oil to body temperature. Lie on side and place 2–3 drops into the ear canal. Stay for 5 minutes, then sit up and gently wipe away excess. Only for external/typical ear discomfort, not for ruptured eardrum.",
+    "precautions": "Do not use if ear discharge, perforated eardrum, or severe pain. See ENT doctor if symptoms persist or worsen.",
+    "category": "Ear care",
+    "source": "Common home practice / CCRAS guidance"
   },
   {
-    "condition": "insomnia",
-    "remedy": "Drink warm milk with nutmeg powder before sleeping to improve sleep quality."
+    "condition": "Nasal Congestion",
+    "remedy": "Steam Inhalation with Eucalyptus or Tulsi",
+    "ingredients": [
+      "Hot water",
+      "A few tulsi leaves or 1–2 drops of eucalyptus oil*"
+    ],
+    "instructions": "Add leaves or oil to hot water and inhale steam safely for 5–8 minutes, keeping eyes closed. Repeat 1–2 times daily.",
+    "precautions": "Avoid direct addition of essential oils for children; keep a safe distance from hot steam to prevent burns. If shortness of breath or severe sinus pain, consult a doctor.",
+    "category": "Respiratory",
+    "source": "Traditional practice / AYUSH"
   },
   {
-    "condition": "skin acne",
-    "remedy": "Apply a paste of neem leaves and turmeric on affected areas to treat acne."
+    "condition": "Minor Burns (First-degree)",
+    "remedy": "Aloe Vera Gel Topical",
+    "ingredients": [
+      "Fresh aloe vera leaf gel"
+    ],
+    "instructions": "Cut leaf and extract fresh gel. Apply a thin layer to the cooled burn. Repeat 2–3 times daily until healed.",
+    "precautions": "For second/third-degree burns, large area burns, or signs of infection, seek emergency care. Test a small area to check for allergy to aloe.",
+    "category": "Skin",
+    "source": "CCRAS / Traditional"
   },
   {
-    "condition": "joint pain",
-    "remedy": "Apply warm sesame oil to the joints and massage gently to alleviate pain and stiffness."
+    "condition": "Skin Acne (Mild)",
+    "remedy": "Neem Paste Spot Application",
+    "ingredients": [
+      "Fresh neem leaves or neem powder",
+      "Water"
+    ],
+    "instructions": "Make a smooth paste of crushed neem leaves with a little water. Apply as a thin mask to affected areas for 10–15 minutes, then rinse. Use 2–3 times weekly.",
+    "precautions": "Do a small patch test to avoid irritation. For severe acne or scarring, consult a dermatologist.",
+    "category": "Skin",
+    "source": "Traditional Ayurvedic sources"
   },
   {
-    "condition": "anxiety",
-    "remedy": "Consume brahmi tea daily to calm the mind and reduce anxiety."
+    "condition": "Minor Cuts & Scrapes",
+    "remedy": "Turmeric Powder Paste with Clean Water",
+    "ingredients": [
+      "Turmeric powder (pinch)",
+      "Clean water"
+    ],
+    "instructions": "Make a light paste and apply gently to cleaned wound. Cover with a sterile dressing. Change dressing daily and watch for infection.",
+    "precautions": "Do not use on deep wounds, puncture wounds, or heavily contaminated wounds. If signs of infection (redness, pus, fever), seek medical care.",
+    "category": "First aid",
+    "source": "Traditional practice / CCRAS"
   },
   {
-    "condition": "allergies",
-    "remedy": "Take guduchi (Tinospora cordifolia) supplements to strengthen immunity and combat allergies."
+    "condition": "Diarrhea (Acute, mild)",
+    "remedy": "Oral Rehydration with Rice Water & Cumin",
+    "ingredients": [
+      "1–2 cups boiled rice water",
+      "Pinch of salt",
+      "Small pinch of cumin (optional)"
+    ],
+    "instructions": "Use clear rice water to sip regularly to maintain hydration. Consume small, bland meals and avoid dairy until recovery. Seek medical care for dehydration or bloody stools.",
+    "precautions": "Infants, elderly, or those with severe dehydration require immediate medical attention. Do not give herbal remedies in place of rehydration therapy in severe cases.",
+    "category": "Digestive support",
+    "source": "AYUSH guidance"
   },
   {
-    "condition": "hair loss",
-    "remedy": "Apply amla oil to the scalp regularly to nourish hair follicles and prevent hair loss."
+    "condition": "Constipation",
+    "remedy": "Warm Water with Lemon and Triphala (if available)",
+    "ingredients": [
+      "1 cup warm water",
+      "1 tsp triphala powder (optional)",
+      "1/2 lemon"
+    ],
+    "instructions": "Drink a cup of warm water with lemon first thing in the morning. Triphala powder may be taken per traditional guidance (consult practitioner). Maintain dietary fiber.",
+    "precautions": "Use of laxatives or herbal purgatives should be under guidance if chronic. Pregnant women should consult a practitioner before using triphala.",
+    "category": "Digestive",
+    "source": "Ayurvedic tradition / AYUSH"
   },
   {
-    "condition": "diabetes",
-    "remedy": "Consume a mixture of jamun seed powder and water daily to help regulate blood sugar levels."
+    "condition": "Mouth Ulcers",
+    "remedy": "Salt Water Rinse & Turmeric Paste",
+    "ingredients": [
+      "1/2 tsp salt in warm water",
+      "Pinch turmeric with water"
+    ],
+    "instructions": "Rinse with salt water multiple times daily and apply a tiny turmeric paste externally to the ulcer for short periods. Avoid spicy/acidic foods.",
+    "precautions": "If ulcers are large, recurrent, or severe, consult a doctor to rule out underlying causes.",
+    "category": "Oral care",
+    "source": "Traditional practice"
   },
   {
-    "condition": "high blood pressure",
-    "remedy": "Drink a decoction of arjuna bark daily to support heart health and manage blood pressure."
+    "condition": "Dandruff",
+    "remedy": "Coconut Oil + Lemon Massage",
+    "ingredients": [
+      "2–3 tbsp coconut oil",
+      "1 tsp lemon juice"
+    ],
+    "instructions": "Warm coconut oil slightly, mix with lemon, and massage into scalp. Leave 30–60 minutes and wash with mild shampoo. Repeat weekly.",
+    "precautions": "Avoid if scalp irritated or if allergic to coconut. Persistent severe dandruff may need medical shampoo or dermatologist consultation.",
+    "category": "Hair care",
+    "source": "Traditional remedies"
   },
   {
-    "condition": "cholesterol",
-    "remedy": "Include garlic in your daily diet to help lower cholesterol levels."
+    "condition": "Hair Loss (Mild)",
+    "remedy": "Amla Oil Scalp Massage",
+    "ingredients": [
+      "Amla oil or oil infused with amla (Indian gooseberry)"
+    ],
+    "instructions": "Massage scalp gently for 5–10 minutes with amla oil 2–3 times weekly. Leave 1–2 hours or overnight and wash normally.",
+    "precautions": "If sudden or patchy hair loss occurs, consult a dermatologist to rule out medical causes.",
+    "category": "Hair care",
+    "source": "Ayurvedic practice"
   },
   {
-    "condition": "asthma",
-    "remedy": "Inhale steam infused with eucalyptus oil to relieve asthma symptoms."
+    "condition": "Mouth Bad Breath (Halitosis)",
+    "remedy": "Fennel Seed Chew",
+    "ingredients": [
+      "1 tsp fennel seeds (saunf)"
+    ],
+    "instructions": "Chew a small amount of fennel seeds after meals to freshen breath and aid digestion.",
+    "precautions": "Not a substitute for dental hygiene. If persistent halitosis, consult a dentist to check for oral disease.",
+    "category": "Oral care",
+    "source": "Traditional"
   },
   {
-    "condition": "bronchitis",
-    "remedy": "Drink licorice root tea twice daily to soothe bronchial inflammation."
+    "condition": "Minor Allergic Skin Rash",
+    "remedy": "Cold Compress and Oatmeal Bath",
+    "ingredients": [
+      "Colloidal oatmeal or plain oats",
+      "Cool water"
+    ],
+    "instructions": "For widespread itchiness, take a cool oatmeal bath for 10–15 minutes or apply a cool compress to affected areas to relieve itch.",
+    "precautions": "If rash is spreading rapidly, with breathing difficulty or swelling, seek emergency medical care.",
+    "category": "Skin",
+    "source": "General guidance"
   },
   {
-    "condition": "psoriasis",
-    "remedy": "Apply aloe vera gel to affected areas to reduce inflammation and scaling."
+    "condition": "Toothache (Temporary)",
+    "remedy": "Clove Oil Cotton Application (Adults)",
+    "ingredients": [
+      "Clove oil",
+      "Small cotton piece"
+    ],
+    "instructions": "Dilute a drop of clove oil in a carrier oil (like olive) and place a small soaked cotton ball over the painful tooth area for short relief. See a dentist for definitive care.",
+    "precautions": "Do not swallow. Avoid undiluted essential oils. Persistent tooth pain requires dental evaluation.",
+    "category": "Oral care",
+    "source": "Traditional practice"
+  },
+  {
+    "condition": "Eye Irritation (Foreign body / mild)",
+    "remedy": "Clean Water Rinse",
+    "ingredients": [
+      "Clean, lukewarm water"
+    ],
+    "instructions": "Rinse the eye gently with running lukewarm water or sterile saline. Blink frequently to clear. Do not rub the eye.",
+    "precautions": "If pain, vision loss, discharge, or chemical exposure, seek immediate ophthalmic care.",
+    "category": "Eye care",
+    "source": "General first aid"
+  },
+  {
+    "condition": "Sunburn (Mild)",
+    "remedy": "Cool Water + Aloe Vera",
+    "ingredients": [
+      "Cool water",
+      "Aloe vera gel"
+    ],
+    "instructions": "Cool the skin with running water or compresses, then apply thin layers of fresh aloe vera gel to soothe. Keep hydrated and avoid further sun exposure.",
+    "precautions": "Severe burns, blistering over large areas, or systemic symptoms require medical attention.",
+    "category": "Skin",
+    "source": "Traditional / CCRAS"
+  },
+  {
+    "condition": "Joint Pain (Mild)",
+    "remedy": "Warm Sesame Oil Massage (Abhyanga style)",
+    "ingredients": [
+      "Sesame oil or suitable massage oil"
+    ],
+    "instructions": "Gently warm the oil and massage the painful joint for 5–10 minutes; apply a warm compress afterward. Repeat daily as comfortable.",
+    "precautions": "If sudden swelling, redness, high fever, or severe pain occurs, seek medical evaluation. Use caution with skin allergies.",
+    "category": "Musculoskeletal",
+    "source": "Ayurvedic practice"
+  },
+  {
+    "condition": "Menstrual Cramps (Mild)",
+    "remedy": "Ginger Tea and Warm Compress",
+    "ingredients": [
+      "1 inch fresh ginger",
+      "1 cup water",
+      "Warm water bottle"
+    ],
+    "instructions": "Prepare ginger tea by boiling ginger in water for 5–7 minutes. Drink warm and apply a warm compress/heat pad to the abdomen.",
+    "precautions": "If bleeding is unusually heavy or pain is severe/out of proportion, consult a healthcare provider.",
+    "category": "Women’s health",
+    "source": "Traditional remedies"
+  },
+  {
+    "condition": "Urinary Tract Discomfort (Mild)",
+    "remedy": "Increase Fluids & D-mannose (if available)",
+    "ingredients": [
+      "Plenty of water",
+      "Cranberry or D-mannose supplements (optional)"
+    ],
+    "instructions": "Increase fluid intake, urinate frequently, and consult a doctor if symptoms of UTI appear (painful urination, fever, blood).",
+    "precautions": "Suspected UTI should be evaluated by a clinician; do not delay antibiotics when indicated.",
+    "category": "Urinary",
+    "source": "Clinical guidance"
+  },
+  {
+    "condition": "Warts (Common)",
+    "remedy": "Apple Cider Vinegar (Topical)",
+    "ingredients": [
+      "Apple cider vinegar",
+      "Cotton and bandage"
+    ],
+    "instructions": "Soak cotton in diluted apple cider vinegar, place on wart and secure overnight for several nights. If irritation occurs, stop.",
+    "precautions": "Avoid on facial warts, mucous membranes, or broken skin. For persistent warts, consult a dermatologist.",
+    "category": "Skin",
+    "source": "Traditional/home remedy"
+  },
+  {
+    "condition": "Eczema (Mild flare)",
+    "remedy": "Moisturize with Coconut Oil & Avoid Triggers",
+    "ingredients": [
+      "Virgin coconut oil or recommended emollient"
+    ],
+    "instructions": "Apply a thin layer of coconut oil to affected areas after bathing to lock moisture. Avoid known irritants and take antihistamine or see a doctor for severe flares.",
+    "precautions": "If infected (pus, fever, spreading redness), seek medical care. Patch test before broad use.",
+    "category": "Skin",
+    "source": "General guidance"
+  },
+  {
+    "condition": "Hemorrhoids (Mild)",
+    "remedy": "Warm Sitz Bath & Fiber Increase",
+    "ingredients": [
+      "Warm water",
+      "Dietary fiber (fruits, vegetables, whole grains)"
+    ],
+    "instructions": "Soak in a warm sitz bath for 10–15 minutes several times daily and increase dietary fiber and fluids to soften stools.",
+    "precautions": "If heavy bleeding, severe pain, or prolapse occurs, consult a physician.",
+    "category": "Gastrointestinal",
+    "source": "Clinical guidance"
+  },
+  {
+    "condition": "Nausea in Pregnancy (Mild)",
+    "remedy": "Ginger Candy or Ginger Tea (small amounts)",
+    "ingredients": [
+      "Small piece ginger or ginger candy",
+      "Water"
+    ],
+    "instructions": "Take small sips of ginger tea or chew on small ginger candy as tolerated. Consult obstetrician before using any herbal remedy during pregnancy.",
+    "precautions": "Always discuss with prenatal care provider. Avoid strong herbal medicines unless approved by obstetrician.",
+    "category": "Pregnancy support",
+    "source": "Obstetric guidance / Traditional"
+  },
+  {
+    "condition": "Lactation Support (Low supply)",
+    "remedy": "Fenugreek and Fennel Foods (dietary)",
+    "ingredients": [
+      "Fenugreek seeds (used in diet)",
+      "Fennel seeds"
+    ],
+    "instructions": "Incorporate fenugreek (small amounts) and fennel into diet or as tea to support lactation; consult lactation specialist for persistent low supply.",
+    "precautions": "Fenugreek may cause hypoglycemia or allergic reactions; check with healthcare provider before use.",
+    "category": "Women’s health",
+    "source": "Traditional guidance"
+  },
+  {
+    "condition": "Cold Sores (Herpes labialis)",
+    "remedy": "Cold Compress & Lip Care",
+    "ingredients": [
+      "Clean cool compress",
+      "Petroleum jelly or lip balm"
+    ],
+    "instructions": "Apply cool compresses to reduce swelling and keep lips moisturized to prevent cracking. Antiviral therapy advised for frequent/severe outbreaks.",
+    "precautions": "Do not share utensils. If lesions are severe or immunocompromised, seek medical care.",
+    "category": "Skin",
+    "source": "Clinical guidance"
+  },
+  {
+    "condition": "Athlete’s Foot (Mild)",
+    "remedy": "Keep Feet Dry & Apply Antifungal Powder/Tea Rinse",
+    "ingredients": [
+      "Clean dry socks",
+      "Antifungal powder or weak tea rinse"
+    ],
+    "instructions": "Keep feet clean and dry; use over-the-counter antifungal powder. A tea rinse (green tea) may help as adjunct; follow product directions.",
+    "precautions": "If spreading, severe itching, or no improvement with OTC care, consult a dermatologist.",
+    "category": "Skin",
+    "source": "Clinical guidance"
+  },
+  {
+    "condition": "Sunstroke / Heat Exhaustion (Mild)",
+    "remedy": "Cool Down, Hydrate, Rest",
+    "ingredients": [
+      "Water or oral rehydration solution",
+      "Cool compresses"
+    ],
+    "instructions": "Move to a cool place, elevate legs, remove excess clothing, apply cool compresses and sip fluids slowly. Seek emergency care for fainting, seizures, or confusion.",
+    "precautions": "Heatstroke is a medical emergency—call emergency services for altered mental status or very high temperature.",
+    "category": "Emergency care",
+    "source": "First aid guidance"
+  },
+  {
+    "condition": "Getting Rid of Head Lice (Adjunct)",
+    "remedy": "Wet-combing and Oil Treatment (Coconut or Olive)",
+    "ingredients": [
+      "Coconut or olive oil",
+      "Fine-tooth comb"
+    ],
+    "instructions": "Apply oil to hair, cover 1–2 hours, then comb thoroughly with fine-tooth comb to remove lice and nits. Repeat per product guidance. Combine with approved pediculicide if needed.",
+    "precautions": "Follow pediatric guidelines; consult a pediatrician for small children or persistent infestation.",
+    "category": "Hair care",
+    "source": "Public health guidance"
+  },
+  {
+    "condition": "Blackheads (Comedones)",
+    "remedy": "Gentle Exfoliation with Multani Mitti (Fuller’s Earth) Mask",
+    "ingredients": [
+      "Multani mitti/Fuller’s earth",
+      "Rose water"
+    ],
+    "instructions": "Mix a smooth paste, apply briefly (10–15 minutes) then rinse. Do not over-exfoliate; follow with light moisturizer.",
+    "precautions": "Avoid harsh scrubbing which can cause irritation. For severe acne consult dermatologist.",
+    "category": "Skin",
+    "source": "Traditional beauty practices"
+  },
+  {
+    "condition": "High Cholesterol (Lifestyle support)",
+    "remedy": "Dietary changes: Amla, Fiber, and Exercise",
+    "ingredients": [
+      "Fresh fruits (amla), whole grains, legumes"
+    ],
+    "instructions": "Adopt a balanced diet high in soluble fiber, regular aerobic exercise, and consult physician for medical management and lipid testing.",
+    "precautions": "Do not replace prescribed lipid-lowering medication without physician advice.",
+    "category": "Lifestyle",
+    "source": "Clinical guidelines / AYUSH support"
+  },
+  {
+    "condition": "Joint Swelling after Minor Injury",
+    "remedy": "RICE: Rest, Ice, Compression, Elevation",
+    "ingredients": [
+      "Ice pack or cool compress",
+      "Elastic bandage"
+    ],
+    "instructions": "Apply ice for 15–20 minutes, wrap with light compression, elevate the limb and rest. Seek medical care for suspected fractures or severe instability.",
+    "precautions": "If numbness, severe pain, or inability to move limb, seek urgent care.",
+    "category": "Musculoskeletal first aid",
+    "source": "First aid guidance"
+  },
+  {
+    "condition": "Cold-related Chapped Lips",
+    "remedy": "Honey or Ghee Lip Balm",
+    "ingredients": [
+      "Small amount of honey or ghee (clarified butter)"
+    ],
+    "instructions": "Apply a thin layer to lips to retain moisture. Use frequently and avoid licking lips.",
+    "precautions": "Do not use honey on infants under 1 year.",
+    "category": "Skin care",
+    "source": "Traditional practice"
+  },
+  {
+    "condition": "Motion Sickness (Mild)",
+    "remedy": "Ginger Candy or Ginger Tea",
+    "ingredients": [
+      "Small piece of ginger or ginger candy"
+    ],
+    "instructions": "Suck a small piece of ginger candy or take small sips of ginger tea before or during travel.",
+    "precautions": "If severe or with other neurological symptoms, seek medical care.",
+    "category": "Travel aid",
+    "source": "Traditional remedies"
+  },
+  {
+    "condition": "Minor Foot Odor",
+    "remedy": "Soak in Vinegar-Water or Tea Bath",
+    "ingredients": [
+      "1 cup vinegar in 1–2 gallons water or strong tea infusion"
+    ],
+    "instructions": "Soak feet 10–15 minutes, dry thoroughly and wear breathable socks. Maintain foot hygiene.",
+    "precautions": "Do not use if broken skin or severe fungal infection—see doctor.",
+    "category": "Hygiene",
+    "source": "Home remedy"
+  },
+  {
+    "condition": "Bruise (Mild)",
+    "remedy": "Cold Compress then Warm Compress",
+    "ingredients": [
+      "Cold pack",
+      "Warm compress after 48 hours"
+    ],
+    "instructions": "Apply cold compress immediately for 10–15 minutes to reduce swelling. After 48 hours, switch to warm compresses to aid resorption.",
+    "precautions": "Severe pain, large expanding hematoma, or persistent numbness requires medical attention.",
+    "category": "First aid",
+    "source": "First aid guidance"
+  },
+  {
+    "condition": "Minor Nasal Bleed (Epistaxis)",
+    "remedy": "Sit Forward and Pinch Nose",
+    "ingredients": [
+      "Clean tissue"
+    ],
+    "instructions": "Sit leaning slightly forward. Pinch the soft part of the nose for 10–15 minutes, breathe through the mouth. Seek care if bleeding persists >20 minutes or recurs frequently.",
+    "precautions": "Avoid tilting head back. If on blood thinners or heavy bleeding occurs, seek immediate medical help.",
+    "category": "First aid",
+    "source": "Clinical guidance"
+  },
+  {
+    "condition": "Minor Fungal Nail Infection (Early)",
+    "remedy": "Keep nails dry, vinegar soak adjunct",
+    "ingredients": [
+      "Vinegar and water soak"
+    ],
+    "instructions": "Soak affected nails in diluted vinegar solution for 10–15 minutes daily and keep nails trimmed and dry. Use antifungal medication if persistent.",
+    "precautions": "Consult dermatologist for chronic or spreading infections.",
+    "category": "Skin",
+    "source": "Home remedy"
+  },
+  {
+    "condition": "Cracked Heels",
+    "remedy": "Soak and Moisturize with Coconut Oil",
+    "ingredients": [
+      "Warm water soak",
+      "Coconut oil"
+    ],
+    "instructions": "Soak feet in warm water, gently exfoliate, and apply coconut oil liberally at night with socks.",
+    "precautions": "If diabetic, take extra foot care and consult podiatrist for deep cracks.",
+    "category": "Foot care",
+    "source": "Traditional care"
+  },
+  {
+    "condition": "General Wellness Tip",
+    "remedy": "Balanced diet, hydration, sleep, and moderate exercise",
+    "ingredients": [
+      "Water",
+      "Whole foods, fruits, vegetables"
+    ],
+    "instructions": "Follow a balanced daily routine, prioritize sleep, stay hydrated and exercise moderately.",
+    "precautions": "This is general advice and not a substitute for medical care for acute conditions.",
+    "category": "Lifestyle",
+    "source": "General health guidance"
+  },
+  {
+    "condition": "General Wellness Tip",
+    "remedy": "Balanced diet, hydration, sleep, and moderate exercise",
+    "ingredients": [
+      "Water",
+      "Whole foods, fruits, vegetables"
+    ],
+    "instructions": "Follow a balanced daily routine, prioritize sleep, stay hydrated and exercise moderately.",
+    "precautions": "This is general advice and not a substitute for medical care for acute conditions.",
+    "category": "Lifestyle",
+    "source": "General health guidance"
+  },
+  {
+    "condition": "General Wellness Tip",
+    "remedy": "Balanced diet, hydration, sleep, and moderate exercise",
+    "ingredients": [
+      "Water",
+      "Whole foods, fruits, vegetables"
+    ],
+    "instructions": "Follow a balanced daily routine, prioritize sleep, stay hydrated and exercise moderately.",
+    "precautions": "This is general advice and not a substitute for medical care for acute conditions.",
+    "category": "Lifestyle",
+    "source": "General health guidance"
+  },
+  {
+    "condition": "General Wellness Tip",
+    "remedy": "Balanced diet, hydration, sleep, and moderate exercise",
+    "ingredients": [
+      "Water",
+      "Whole foods, fruits, vegetables"
+    ],
+    "instructions": "Follow a balanced daily routine, prioritize sleep, stay hydrated and exercise moderately.",
+    "precautions": "This is general advice and not a substitute for medical care for acute conditions.",
+    "category": "Lifestyle",
+    "source": "General health guidance"
   }
 ]
