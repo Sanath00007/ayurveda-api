@@ -1,18 +1,92 @@
 {
-  "Eczema": [
-    "Apply neem and turmeric paste to affected areas.",
-    "Use coconut oil mixed with aloe vera daily.",
-    "Drink triphala water for detoxification."
-  ],
-  "Psoriasis": [
-    "Use turmeric and ghee externally to soothe inflammation.",
-    "Consume aloe vera juice twice daily.",
-    "Apply sandalwood paste for relief."
-  ],
-  "Acne": [
-    "Apply tulsi and neem leaf paste.",
-    "Wash face with rose water regularly.",
-    "Drink turmeric milk every night."
-  ]
+  "Acne and Rosacea Photos": {
+    "remedy": "Apply neem (Nimba) and turmeric (Haridra) paste once daily.",
+    "source": "Ashtanga Hridayam, Chikitsa Sthana 20 — Kustha Chikitsa.",
+    "pathya": [
+      "Light non-oily meals (mung dal, gourds).",
+      "Drink warm water.",
+      "Sleep before 10 PM.",
+      "Wash face gently with cool water."
+    ],
+    "apathya": [
+      "Fried and spicy foods.",
+      "Milk and curd together.",
+      "Excess sugar.",
+      "Picking or squeezing lesions."
+    ]
+  },
+  "Eczema Photos": {
+    "remedy": "Use coconut oil (Narikela Taila) externally after bath.",
+    "source": "Charaka Samhita, Chikitsa Sthana 7.26.",
+    "pathya": [
+      "Lukewarm baths.",
+      "Loose cotton clothing.",
+      "Keep nails short.",
+      "Practice calming breathing."
+    ],
+    "apathya": [
+      "Hot water bathing.",
+      "Scratching.",
+      "Chemical soaps or perfumes.",
+      "Dust or wool contact."
+    ]
+  },
+  "Psoriasis pictures Lichen Planus and related diseases": {
+    "remedy": "Apply fresh aloe vera gel (Kumari Swarasa) twice daily.",
+    "source": "Sushruta Samhita, Chikitsa Sthana 9.",
+    "pathya": [
+      "Warm simple meals (rice, mung dal).",
+      "Gentle early sunlight.",
+      "Regular sleep schedule."
+    ],
+    "apathya": [
+      "Alcohol and smoking.",
+      "Excess salty or sour foods.",
+      "Stress triggers.",
+      "Dry cold exposure."
+    ]
+  },
+  "Tinea Ringworm Candidiasis and other Fungal Infections": {
+    "remedy": "Apply vetiver (Ushira) and sandalwood (Chandana) paste to reduce itching.",
+    "source": "Ashtanga Hridayam, Nidana Sthana 14.",
+    "pathya": [
+      "Keep area dry and clean.",
+      "Sun-dry clothes.",
+      "Use separate towels."
+    ],
+    "apathya": [
+      "Sharing clothing.",
+      "Tight synthetic clothing.",
+      "Sweating without washing."
+    ]
+  },
+  "Warts Molluscum and other Viral Infections": {
+    "remedy": "Apply ash gourd juice (Kushmanda Swarasa) externally.",
+    "source": "Sushruta Samhita, Chikitsa Sthana 18.",
+    "pathya": [
+      "Maintain skin hygiene.",
+      "Keep skin dry.",
+      "Eat fresh fruits and vegetables."
+    ],
+    "apathya": [
+      "Picking lesions.",
+      "Sharing razors.",
+      "Walking barefoot in wet areas."
+    ]
+  },
+  "Light Diseases and Disorders of Pigmentation": {
+    "remedy": "Use manjistha (Rubia cordifolia) paste externally.",
+    "source": "Charaka Samhita, Chikitsa Sthana 26 — Varnya Dravya.",
+    "pathya": [
+      "Regular meals.",
+      "Hydration.",
+      "Use physical sun protection (cloth/shade)."
+    ],
+    "apathya": [
+      "Heat exposure.",
+      "Stress.",
+      "Harsh scrubbing.",
+      "Skipping meals."
+    ]
+  }
 }
-
